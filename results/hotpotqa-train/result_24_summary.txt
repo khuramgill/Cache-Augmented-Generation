@@ -1,0 +1,60 @@
+==> 1440 Questions from result_24_kvcache_nokv.txt
+Prepare time: 22.53605111837387
+Average Semantic Similarity: 0.7744317214224593
+cache time: 3.159046173095703e-07 	 generate Time: 18.5920914000935
+
+==> 1440 Questions from result_24_kvcache.txt
+Prepare time: 21.22516408363978
+Average Semantic Similarity: 0.7747385260351518
+cache time: 2.6772419611612953e-07 	 generate Time: 1.1688047597805662
+
+==> 1440 Questions from result_24_rag_Index_bm25_top1.txt
+Prepare time: 0.09461557467778524
+Average Semantic Similarity: 0.6742765193882707
+retrieve time: 0.0008138183090421888 	 generate Time: 0.5953758642077446
+
+==> 1440 Questions from result_24_rag_Index_bm25_top3.txt
+Prepare time: 0.0942017396291097
+Average Semantic Similarity: 0.7570476284347633
+retrieve time: 0.0009684797790315418 	 generate Time: 0.7670252735416094
+
+==> 1440 Questions from result_24_rag_Index_bm25_top5.txt
+Prepare time: 0.09501640796661377
+Average Semantic Similarity: 0.7546863057333718
+retrieve time: 0.0010803482598728607 	 generate Time: 0.9752844428022704
+
+==> 1440 Questions from result_24_rag_Index_bm25_top10.txt
+Prepare time: 0.09578227202097575
+Average Semantic Similarity: 0.7456024905065228
+retrieve time: 0.0013859541879759896 	 generate Time: 1.6557785807384384
+
+==> 1440 Questions from result_24_rag_Index_bm25_top20.txt
+Prepare time: 0.09393914937973022
+Average Semantic Similarity: 0.7552001630919726
+retrieve time: 0.0018950200743145418 	 generate Time: 3.360627066757945
+
+==> 1440 Questions from result_24_rag_Index_openai_top1.txt
+Prepare time: 3.130359133084615
+Average Semantic Similarity: 0.7190134512680942
+retrieve time: 0.41106385572089094 	 generate Time: 0.6779096517297956
+
+==> 1440 Questions from result_24_rag_Index_openai_top3.txt
+Prepare time: 2.0754169464111327
+Average Semantic Similarity: 0.7438370080968727
+retrieve time: 0.4105451789167192 	 generate Time: 1.0440760546260408
+
+==> 1440 Questions from result_24_rag_Index_openai_top5.txt
+Prepare time: 2.2245444854100547
+Average Semantic Similarity: 0.7356817294591261
+retrieve time: 0.4114025958710247 	 generate Time: 1.5102837190032012
+
+==> 1440 Questions from result_24_rag_Index_openai_top10.txt
+Prepare time: 2.0789222955703734
+Average Semantic Similarity: 0.7414622826663416
+retrieve time: 0.4126505676243041 	 generate Time: 2.8472644049260354
+
+==> 1440 Questions from result_24_rag_Index_openai_top20.txt
+Prepare time: 2.3510435104370115
+Average Semantic Similarity: 0.7383997654729885
+retrieve time: 0.42048241313960816 	 generate Time: 6.597322589159012
+

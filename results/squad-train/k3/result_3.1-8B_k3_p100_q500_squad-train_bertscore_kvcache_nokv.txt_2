@@ -1,0 +1,976 @@
+KVcache prepared in 9.028640985488892 seconds
+[0]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.713170289993286
+[0]: [Cumulative]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.713170289993286
+[1]: Semantic Similarity: 0.37579,	 cache time: 2.384185791015625e-07,	 generate time: 7.272743225097656
+[1]: [Cumulative]: Semantic Similarity: 0.6879,	 cache time: 1.1920928955078125e-07,	 generate time: 6.992956757545471
+[2]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.935983657836914
+[2]: [Cumulative]: Semantic Similarity: 0.79193,	 cache time: 2.384185791015625e-07,	 generate time: 6.973965724309285
+[3]: Semantic Similarity: 0.76987,	 cache time: 4.76837158203125e-07,	 generate time: 9.292595386505127
+[3]: [Cumulative]: Semantic Similarity: 0.78641,	 cache time: 2.980232238769531e-07,	 generate time: 7.553623139858246
+[4]: Semantic Similarity: 0.97788,	 cache time: 2.384185791015625e-07,	 generate time: 8.400594472885132
+[4]: [Cumulative]: Semantic Similarity: 0.82471,	 cache time: 2.86102294921875e-07,	 generate time: 7.723017406463623
+[5]: Semantic Similarity: 0.92717,	 cache time: 2.384185791015625e-07,	 generate time: 7.016549587249756
+[5]: [Cumulative]: Semantic Similarity: 0.84178,	 cache time: 2.7815500895182293e-07,	 generate time: 7.6052727699279785
+[6]: Semantic Similarity: 0.92717,	 cache time: 2.384185791015625e-07,	 generate time: 7.009552717208862
+[6]: [Cumulative]: Semantic Similarity: 0.85398,	 cache time: 2.724783761160714e-07,	 generate time: 7.520169905253819
+[7]: Semantic Similarity: 0.80664,	 cache time: 0.0,	 generate time: 7.301055669784546
+[7]: [Cumulative]: Semantic Similarity: 0.84806,	 cache time: 2.384185791015625e-07,	 generate time: 7.49278062582016
+[8]: Semantic Similarity: 0.35792,	 cache time: 4.76837158203125e-07,	 generate time: 8.465150117874146
+[8]: [Cumulative]: Semantic Similarity: 0.7936,	 cache time: 2.6490953233506946e-07,	 generate time: 7.600821680492825
+[9]: Semantic Similarity: 0.96725,	 cache time: 2.384185791015625e-07,	 generate time: 6.764214992523193
+[9]: [Cumulative]: Semantic Similarity: 0.81097,	 cache time: 2.6226043701171877e-07,	 generate time: 7.517161011695862
+[10]: Semantic Similarity: 0.10341,	 cache time: 4.76837158203125e-07,	 generate time: 7.2527689933776855
+[10]: [Cumulative]: Semantic Similarity: 0.74664,	 cache time: 2.8176741166548297e-07,	 generate time: 7.4931253736669365
+[11]: Semantic Similarity: 0.97935,	 cache time: 2.384185791015625e-07,	 generate time: 7.024865627288818
+[11]: [Cumulative]: Semantic Similarity: 0.76604,	 cache time: 2.7815500895182293e-07,	 generate time: 7.4541037281354265
+[12]: Semantic Similarity: 0.68432,	 cache time: 2.384185791015625e-07,	 generate time: 7.378002166748047
+[12]: [Cumulative]: Semantic Similarity: 0.75975,	 cache time: 2.7509836050180286e-07,	 generate time: 7.448249761874859
+[13]: Semantic Similarity: 0.3597,	 cache time: 2.384185791015625e-07,	 generate time: 9.193621397018433
+[13]: [Cumulative]: Semantic Similarity: 0.73118,	 cache time: 2.724783761160714e-07,	 generate time: 7.572919164385114
+[14]: Semantic Similarity: 0.85852,	 cache time: 4.76837158203125e-07,	 generate time: 6.970858335494995
+[14]: [Cumulative]: Semantic Similarity: 0.73967,	 cache time: 2.86102294921875e-07,	 generate time: 7.53278177579244
+[15]: Semantic Similarity: 0.50942,	 cache time: 4.76837158203125e-07,	 generate time: 12.774121046066284
+[15]: [Cumulative]: Semantic Similarity: 0.72527,	 cache time: 2.980232238769531e-07,	 generate time: 7.860365480184555
+[16]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.6888511180877686
+[16]: [Cumulative]: Semantic Similarity: 0.74144,	 cache time: 2.8049244600183824e-07,	 generate time: 7.79145287064945
+[17]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.726613521575928
+[17]: [Cumulative]: Semantic Similarity: 0.7558,	 cache time: 2.7815500895182293e-07,	 generate time: 7.732295129034254
+[18]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.95077109336853
+[18]: [Cumulative]: Semantic Similarity: 0.76865,	 cache time: 2.8861196417557566e-07,	 generate time: 7.691162285051848
+[19]: Semantic Similarity: 0.9316,	 cache time: 2.384185791015625e-07,	 generate time: 6.763647794723511
+[19]: [Cumulative]: Semantic Similarity: 0.7768,	 cache time: 2.86102294921875e-07,	 generate time: 7.644786560535431
+[20]: Semantic Similarity: 0.21651,	 cache time: 2.384185791015625e-07,	 generate time: 6.695043087005615
+[20]: [Cumulative]: Semantic Similarity: 0.75012,	 cache time: 2.838316417875744e-07,	 generate time: 7.599560680843535
+[21]: Semantic Similarity: 0.90149,	 cache time: 4.76837158203125e-07,	 generate time: 6.664801359176636
+[21]: [Cumulative]: Semantic Similarity: 0.757,	 cache time: 2.9260461980646307e-07,	 generate time: 7.557071620767767
+[22]: Semantic Similarity: 0.99387,	 cache time: 2.384185791015625e-07,	 generate time: 7.235206365585327
+[22]: [Cumulative]: Semantic Similarity: 0.7673,	 cache time: 2.9024870499320654e-07,	 generate time: 7.543077479238096
+[23]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.885276794433594
+[23]: [Cumulative]: Semantic Similarity: 0.77699,	 cache time: 2.88089116414388e-07,	 generate time: 7.5156691173712415
+[24]: Semantic Similarity: 0.30235,	 cache time: 0.0,	 generate time: 7.920854568481445
+[24]: [Cumulative]: Semantic Similarity: 0.75801,	 cache time: 2.765655517578125e-07,	 generate time: 7.531876535415649
+[25]: Semantic Similarity: 0.00038,	 cache time: 0.0,	 generate time: 8.46018362045288
+[25]: [Cumulative]: Semantic Similarity: 0.72887,	 cache time: 2.659284151517428e-07,	 generate time: 7.567580654070928
+[26]: Semantic Similarity: 0.33144,	 cache time: 4.76837158203125e-07,	 generate time: 9.667749881744385
+[26]: [Cumulative]: Semantic Similarity: 0.71415,	 cache time: 2.7373985007957176e-07,	 generate time: 7.645364699540315
+[27]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.708404779434204
+[27]: [Cumulative]: Semantic Similarity: 0.72436,	 cache time: 2.639634268624442e-07,	 generate time: 7.611901845250811
+[28]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.912132978439331
+[28]: [Cumulative]: Semantic Similarity: 0.73386,	 cache time: 2.5486123972925645e-07,	 generate time: 7.587771884326277
+[29]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.782388687133789
+[29]: [Cumulative]: Semantic Similarity: 0.74273,	 cache time: 2.5431315104166666e-07,	 generate time: 7.560925777753194
+[30]: Semantic Similarity: 0.91024,	 cache time: 2.384185791015625e-07,	 generate time: 7.081921339035034
+[30]: [Cumulative]: Semantic Similarity: 0.74814,	 cache time: 2.538004229145665e-07,	 generate time: 7.545474021665512
+[31]: Semantic Similarity: 0.94538,	 cache time: 2.384185791015625e-07,	 generate time: 6.9095704555511475
+[31]: [Cumulative]: Semantic Similarity: 0.7543,	 cache time: 2.5331974029541016e-07,	 generate time: 7.525602035224438
+[32]: Semantic Similarity: 0.83819,	 cache time: 4.76837158203125e-07,	 generate time: 7.3588879108428955
+[32]: [Cumulative]: Semantic Similarity: 0.75684,	 cache time: 2.600929953835227e-07,	 generate time: 7.52055009206136
+[33]: Semantic Similarity: 0.68941,	 cache time: 2.384185791015625e-07,	 generate time: 7.2608208656311035
+[33]: [Cumulative]: Semantic Similarity: 0.75486,	 cache time: 2.5945551255170035e-07,	 generate time: 7.512910997166353
+[34]: Semantic Similarity: 0.79744,	 cache time: 2.384185791015625e-07,	 generate time: 6.8476433753967285
+[34]: [Cumulative]: Semantic Similarity: 0.75608,	 cache time: 2.5885445731026784e-07,	 generate time: 7.493903350830078
+[35]: Semantic Similarity: 0.94317,	 cache time: 2.384185791015625e-07,	 generate time: 6.955912828445435
+[35]: [Cumulative]: Semantic Similarity: 0.76127,	 cache time: 2.582867940266927e-07,	 generate time: 7.478959169652727
+[36]: Semantic Similarity: 0.44022,	 cache time: 2.384185791015625e-07,	 generate time: 7.783915758132935
+[36]: [Cumulative]: Semantic Similarity: 0.7526,	 cache time: 2.5774981524493245e-07,	 generate time: 7.487201239611651
+[37]: Semantic Similarity: 0.12741,	 cache time: 4.76837158203125e-07,	 generate time: 6.886571168899536
+[37]: [Cumulative]: Semantic Similarity: 0.73614,	 cache time: 2.635152716385691e-07,	 generate time: 7.471395185119228
+[38]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.733082056045532
+[38]: [Cumulative]: Semantic Similarity: 0.74291,	 cache time: 2.628717667017228e-07,	 generate time: 7.4524640792455425
+[39]: Semantic Similarity: 0.77513,	 cache time: 2.384185791015625e-07,	 generate time: 6.887717247009277
+[39]: [Cumulative]: Semantic Similarity: 0.74372,	 cache time: 2.6226043701171877e-07,	 generate time: 7.438345408439636
+[40]: Semantic Similarity: 0.40739,	 cache time: 7.152557373046875e-07,	 generate time: 9.165463924407959
+[40]: [Cumulative]: Semantic Similarity: 0.73551,	 cache time: 2.7330910287252284e-07,	 generate time: 7.480470250292522
+[41]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.798914432525635
+[41]: [Cumulative]: Semantic Similarity: 0.74181,	 cache time: 2.724783761160714e-07,	 generate time: 7.464242730821882
+[42]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.8233482837677
+[42]: [Cumulative]: Semantic Similarity: 0.74781,	 cache time: 2.7168628781340844e-07,	 generate time: 7.449338208797366
+[43]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.887448787689209
+[43]: [Cumulative]: Semantic Similarity: 0.75355,	 cache time: 2.6551159945401276e-07,	 generate time: 7.436567994681272
+[44]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.657764911651611
+[44]: [Cumulative]: Semantic Similarity: 0.75902,	 cache time: 2.6490953233506946e-07,	 generate time: 7.419261259502835
+[45]: Semantic Similarity: 0.61427,	 cache time: 4.76837158203125e-07,	 generate time: 7.922799110412598
+[45]: [Cumulative]: Semantic Similarity: 0.75588,	 cache time: 2.695166546365489e-07,	 generate time: 7.430207734522612
+[46]: Semantic Similarity: 0.24702,	 cache time: 2.384185791015625e-07,	 generate time: 7.888823747634888
+[46]: [Cumulative]: Semantic Similarity: 0.74505,	 cache time: 2.6885499345495345e-07,	 generate time: 7.4399655220356395
+[47]: Semantic Similarity: 0.73126,	 cache time: 2.384185791015625e-07,	 generate time: 8.237293720245361
+[47]: [Cumulative]: Semantic Similarity: 0.74476,	 cache time: 2.682209014892578e-07,	 generate time: 7.4565765261650085
+[48]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.844202518463135
+[48]: [Cumulative]: Semantic Similarity: 0.74997,	 cache time: 2.676126908282844e-07,	 generate time: 7.444079097436399
+[49]: Semantic Similarity: 0.97935,	 cache time: 2.384185791015625e-07,	 generate time: 7.044971942901611
+[49]: [Cumulative]: Semantic Similarity: 0.75456,	 cache time: 2.6702880859375e-07,	 generate time: 7.436096954345703
+[50]: Semantic Similarity: 0.1585,	 cache time: 2.384185791015625e-07,	 generate time: 7.080179929733276
+[50]: [Cumulative]: Semantic Similarity: 0.74287,	 cache time: 2.6646782370174633e-07,	 generate time: 7.429118189157224
+[51]: Semantic Similarity: 0.19603,	 cache time: 2.384185791015625e-07,	 generate time: 8.573373317718506
+[51]: [Cumulative]: Semantic Similarity: 0.73235,	 cache time: 2.659284151517428e-07,	 generate time: 7.45112309547571
+[52]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.81993842124939
+[52]: [Cumulative]: Semantic Similarity: 0.7374,	 cache time: 2.65409361641362e-07,	 generate time: 7.439213950678988
+[53]: Semantic Similarity: 0.91056,	 cache time: 2.384185791015625e-07,	 generate time: 6.789259433746338
+[53]: [Cumulative]: Semantic Similarity: 0.74061,	 cache time: 2.6490953233506946e-07,	 generate time: 7.427177755920975
+[54]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.806957006454468
+[54]: [Cumulative]: Semantic Similarity: 0.74533,	 cache time: 2.644278786399148e-07,	 generate time: 7.415901015021584
+[55]: Semantic Similarity: 0.95236,	 cache time: 2.384185791015625e-07,	 generate time: 7.402332544326782
+[55]: [Cumulative]: Semantic Similarity: 0.74902,	 cache time: 2.639634268624442e-07,	 generate time: 7.415658720902035
+[56]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.724754571914673
+[56]: [Cumulative]: Semantic Similarity: 0.75343,	 cache time: 2.635152716385691e-07,	 generate time: 7.403537595481203
+[57]: Semantic Similarity: 0.9588,	 cache time: 2.384185791015625e-07,	 generate time: 6.761457443237305
+[57]: [Cumulative]: Semantic Similarity: 0.75697,	 cache time: 2.6308257004310344e-07,	 generate time: 7.392467248028722
+[58]: Semantic Similarity: 0.89892,	 cache time: 2.384185791015625e-07,	 generate time: 7.085256576538086
+[58]: [Cumulative]: Semantic Similarity: 0.75937,	 cache time: 2.6266453629833156e-07,	 generate time: 7.387260287494983
+[59]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.766666650772095
+[59]: [Cumulative]: Semantic Similarity: 0.76338,	 cache time: 2.6226043701171877e-07,	 generate time: 7.376917060216268
+[60]: Semantic Similarity: 0.97259,	 cache time: 2.384185791015625e-07,	 generate time: 6.81195592880249
+[60]: [Cumulative]: Semantic Similarity: 0.76681,	 cache time: 2.618695868820441e-07,	 generate time: 7.367655402324239
+[61]: Semantic Similarity: 0.23412,	 cache time: 2.384185791015625e-07,	 generate time: 8.390767097473145
+[61]: [Cumulative]: Semantic Similarity: 0.75822,	 cache time: 2.6149134482106853e-07,	 generate time: 7.384157203858899
+[62]: Semantic Similarity: 0.4646,	 cache time: 2.384185791015625e-07,	 generate time: 8.471801042556763
+[62]: [Cumulative]: Semantic Similarity: 0.75356,	 cache time: 2.611251104445685e-07,	 generate time: 7.401421391774738
+[63]: Semantic Similarity: 0.64301,	 cache time: 2.384185791015625e-07,	 generate time: 6.878418207168579
+[63]: [Cumulative]: Semantic Similarity: 0.75183,	 cache time: 2.60770320892334e-07,	 generate time: 7.393249467015266
+[64]: Semantic Similarity: 0.07211,	 cache time: 2.384185791015625e-07,	 generate time: 7.385176658630371
+[64]: [Cumulative]: Semantic Similarity: 0.74138,	 cache time: 2.604264479417067e-07,	 generate time: 7.393125269963191
+[65]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.906418800354004
+[65]: [Cumulative]: Semantic Similarity: 0.7453,	 cache time: 2.600929953835227e-07,	 generate time: 7.385750929514567
+[66]: Semantic Similarity: 0.29188,	 cache time: 4.76837158203125e-07,	 generate time: 9.203968286514282
+[66]: [Cumulative]: Semantic Similarity: 0.73853,	 cache time: 2.6332798288829293e-07,	 generate time: 7.4128885020071005
+[67]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.987890005111694
+[67]: [Cumulative]: Semantic Similarity: 0.74237,	 cache time: 2.6296166812672336e-07,	 generate time: 7.406638524111579
+[68]: Semantic Similarity: 0.25136,	 cache time: 2.384185791015625e-07,	 generate time: 8.546799659729004
+[68]: [Cumulative]: Semantic Similarity: 0.73526,	 cache time: 2.626059711843297e-07,	 generate time: 7.423162598540817
+[69]: Semantic Similarity: 0.4446,	 cache time: 4.76837158203125e-07,	 generate time: 8.328521251678467
+[69]: [Cumulative]: Semantic Similarity: 0.7311,	 cache time: 2.6566641671316965e-07,	 generate time: 7.436096293585641
+[70]: Semantic Similarity: 0.39084,	 cache time: 2.384185791015625e-07,	 generate time: 9.260594844818115
+[70]: [Cumulative]: Semantic Similarity: 0.72631,	 cache time: 2.652826443524428e-07,	 generate time: 7.461793456279056
+[71]: Semantic Similarity: 0.94745,	 cache time: 4.76837158203125e-07,	 generate time: 7.018230438232422
+[71]: [Cumulative]: Semantic Similarity: 0.72938,	 cache time: 2.682209014892578e-07,	 generate time: 7.455632858806187
+[72]: Semantic Similarity: 0.97931,	 cache time: 2.384185791015625e-07,	 generate time: 6.763477563858032
+[72]: [Cumulative]: Semantic Similarity: 0.73281,	 cache time: 2.6781265049764556e-07,	 generate time: 7.446151279423335
+[73]: Semantic Similarity: 0.4276,	 cache time: 2.384185791015625e-07,	 generate time: 7.027337312698364
+[73]: [Cumulative]: Semantic Similarity: 0.72868,	 cache time: 2.674154333166174e-07,	 generate time: 7.440491631224349
+[74]: Semantic Similarity: 0.44474,	 cache time: 7.152557373046875e-07,	 generate time: 6.949610471725464
+[74]: [Cumulative]: Semantic Similarity: 0.7249,	 cache time: 2.733866373697917e-07,	 generate time: 7.433946549097697
+[75]: Semantic Similarity: 0.53741,	 cache time: 2.384185791015625e-07,	 generate time: 9.366836071014404
+[75]: [Cumulative]: Semantic Similarity: 0.72243,	 cache time: 2.729265313399465e-07,	 generate time: 7.459379305965022
+[76]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.845973968505859
+[76]: [Cumulative]: Semantic Similarity: 0.72603,	 cache time: 2.724783761160714e-07,	 generate time: 7.451413002881137
+[77]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.715660095214844
+[77]: [Cumulative]: Semantic Similarity: 0.72955,	 cache time: 2.689850636017628e-07,	 generate time: 7.4419802732956715
+[78]: Semantic Similarity: 0.88613,	 cache time: 2.384185791015625e-07,	 generate time: 6.653250217437744
+[78]: [Cumulative]: Semantic Similarity: 0.73153,	 cache time: 2.6859814607644383e-07,	 generate time: 7.431996348537976
+[79]: Semantic Similarity: 0.87557,	 cache time: 2.384185791015625e-07,	 generate time: 6.907816410064697
+[79]: [Cumulative]: Semantic Similarity: 0.73333,	 cache time: 2.682209014892578e-07,	 generate time: 7.42544409930706
+[80]: Semantic Similarity: 0.90905,	 cache time: 2.384185791015625e-07,	 generate time: 7.344777822494507
+[80]: [Cumulative]: Semantic Similarity: 0.7355,	 cache time: 2.678529715832369e-07,	 generate time: 7.424448219346411
+[81]: Semantic Similarity: 0.95009,	 cache time: 0.0,	 generate time: 7.0276055335998535
+[81]: [Cumulative]: Semantic Similarity: 0.73812,	 cache time: 2.645864719297828e-07,	 generate time: 7.419608674398282
+[82]: Semantic Similarity: 0.1267,	 cache time: 2.384185791015625e-07,	 generate time: 7.870165824890137
+[82]: [Cumulative]: Semantic Similarity: 0.73075,	 cache time: 2.642711961125753e-07,	 generate time: 7.425037073801799
+[83]: Semantic Similarity: 0.96197,	 cache time: 2.384185791015625e-07,	 generate time: 7.219088077545166
+[83]: [Cumulative]: Semantic Similarity: 0.7335,	 cache time: 2.639634268624442e-07,	 generate time: 7.422585300036839
+[84]: Semantic Similarity: 0.77545,	 cache time: 4.76837158203125e-07,	 generate time: 7.606855154037476
+[84]: [Cumulative]: Semantic Similarity: 0.734,	 cache time: 2.6646782370174633e-07,	 generate time: 7.42475318067214
+[85]: Semantic Similarity: 0.68211,	 cache time: 2.384185791015625e-07,	 generate time: 7.818145513534546
+[85]: [Cumulative]: Semantic Similarity: 0.73339,	 cache time: 2.6614166969476744e-07,	 generate time: 7.429327510124029
+[86]: Semantic Similarity: 0.96718,	 cache time: 2.384185791015625e-07,	 generate time: 7.400460958480835
+[86]: [Cumulative]: Semantic Similarity: 0.73608,	 cache time: 2.6582301348105246e-07,	 generate time: 7.428995710679854
+[87]: Semantic Similarity: 0.47465,	 cache time: 2.384185791015625e-07,	 generate time: 6.928345441818237
+[87]: [Cumulative]: Semantic Similarity: 0.73311,	 cache time: 2.6551159945401276e-07,	 generate time: 7.4233065030791545
+[88]: Semantic Similarity: 0.52463,	 cache time: 2.384185791015625e-07,	 generate time: 9.763277530670166
+[88]: [Cumulative]: Semantic Similarity: 0.73077,	 cache time: 2.652071834949965e-07,	 generate time: 7.44959831237793
+[89]: Semantic Similarity: 0.67568,	 cache time: 2.384185791015625e-07,	 generate time: 6.914159774780273
+[89]: [Cumulative]: Semantic Similarity: 0.73015,	 cache time: 2.6490953233506946e-07,	 generate time: 7.443648995293511
+[90]: Semantic Similarity: 0.49748,	 cache time: 2.384185791015625e-07,	 generate time: 7.8742241859436035
+[90]: [Cumulative]: Semantic Similarity: 0.7276,	 cache time: 2.6461842295887707e-07,	 generate time: 7.448380590795161
+[91]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.687748670578003
+[91]: [Cumulative]: Semantic Similarity: 0.73056,	 cache time: 2.643336420473845e-07,	 generate time: 7.44011285253193
+[92]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.682462692260742
+[92]: [Cumulative]: Semantic Similarity: 0.73346,	 cache time: 2.640549854565692e-07,	 generate time: 7.431966076615036
+[93]: Semantic Similarity: 0.75458,	 cache time: 4.76837158203125e-07,	 generate time: 6.843224763870239
+[93]: [Cumulative]: Semantic Similarity: 0.73368,	 cache time: 2.6631862559217085e-07,	 generate time: 7.425702871160304
+[94]: Semantic Similarity: 0.83498,	 cache time: 2.384185791015625e-07,	 generate time: 7.227360248565674
+[94]: [Cumulative]: Semantic Similarity: 0.73475,	 cache time: 2.660249408922697e-07,	 generate time: 7.4236150540803605
+[95]: Semantic Similarity: 0.83474,	 cache time: 4.76837158203125e-07,	 generate time: 7.130403280258179
+[95]: [Cumulative]: Semantic Similarity: 0.73579,	 cache time: 2.682209014892578e-07,	 generate time: 7.420560764769713
+[96]: Semantic Similarity: 0.91416,	 cache time: 2.384185791015625e-07,	 generate time: 6.721678972244263
+[96]: [Cumulative]: Semantic Similarity: 0.73763,	 cache time: 2.6791366105227126e-07,	 generate time: 7.413355797836461
+[97]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.795677661895752
+[97]: [Cumulative]: Semantic Similarity: 0.7403,	 cache time: 2.676126908282844e-07,	 generate time: 7.407052959714617
+[98]: Semantic Similarity: 0.63563,	 cache time: 2.384185791015625e-07,	 generate time: 8.06122374534607
+[98]: [Cumulative]: Semantic Similarity: 0.73925,	 cache time: 2.673178008108428e-07,	 generate time: 7.413660745428066
+[99]: Semantic Similarity: 0.29431,	 cache time: 2.384185791015625e-07,	 generate time: 6.7731640338897705
+[99]: [Cumulative]: Semantic Similarity: 0.7348,	 cache time: 2.6702880859375e-07,	 generate time: 7.407255778312683
+[100]: Semantic Similarity: 0.29104,	 cache time: 2.384185791015625e-07,	 generate time: 6.672565460205078
+[100]: [Cumulative]: Semantic Similarity: 0.7304,	 cache time: 2.667455389948175e-07,	 generate time: 7.399981616747262
+[101]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.799457311630249
+[101]: [Cumulative]: Semantic Similarity: 0.73305,	 cache time: 2.6646782370174633e-07,	 generate time: 7.39409412355984
+[102]: Semantic Similarity: 0.93199,	 cache time: 2.384185791015625e-07,	 generate time: 6.8009374141693115
+[102]: [Cumulative]: Semantic Similarity: 0.73498,	 cache time: 2.6619550093863773e-07,	 generate time: 7.388335320556048
+[103]: Semantic Similarity: 0.25293,	 cache time: 2.384185791015625e-07,	 generate time: 8.614619731903076
+[103]: [Cumulative]: Semantic Similarity: 0.73034,	 cache time: 2.659284151517428e-07,	 generate time: 7.400126516819
+[104]: Semantic Similarity: 1.0,	 cache time: 9.5367431640625e-07,	 generate time: 6.698281526565552
+[104]: [Cumulative]: Semantic Similarity: 0.73291,	 cache time: 2.724783761160714e-07,	 generate time: 7.393442278816586
+[105]: Semantic Similarity: 0.88613,	 cache time: 2.384185791015625e-07,	 generate time: 6.7044007778167725
+[105]: [Cumulative]: Semantic Similarity: 0.73436,	 cache time: 2.7215705727631193e-07,	 generate time: 7.38694188729772
+[106]: Semantic Similarity: 0.46787,	 cache time: 2.384185791015625e-07,	 generate time: 6.548709392547607
+[106]: [Cumulative]: Semantic Similarity: 0.73187,	 cache time: 2.7184174439617404e-07,	 generate time: 7.379107938748654
+[107]: Semantic Similarity: 0.96731,	 cache time: 2.384185791015625e-07,	 generate time: 7.696893215179443
+[107]: [Cumulative]: Semantic Similarity: 0.73405,	 cache time: 2.7153227064344617e-07,	 generate time: 7.382050395011902
+[108]: Semantic Similarity: 0.27285,	 cache time: 0.0,	 generate time: 6.991443872451782
+[108]: [Cumulative]: Semantic Similarity: 0.72982,	 cache time: 2.690411488944237e-07,	 generate time: 7.3784668489333685
+[109]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.91292142868042
+[109]: [Cumulative]: Semantic Similarity: 0.73227,	 cache time: 2.687627618963068e-07,	 generate time: 7.37423461784016
+[110]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.79297947883606
+[110]: [Cumulative]: Semantic Similarity: 0.73468,	 cache time: 2.663414757530968e-07,	 generate time: 7.368998085056339
+[111]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.561036109924316
+[111]: [Cumulative]: Semantic Similarity: 0.73705,	 cache time: 2.66092164175851e-07,	 generate time: 7.361784138849804
+[112]: Semantic Similarity: 0.42826,	 cache time: 2.384185791015625e-07,	 generate time: 8.525152683258057
+[112]: [Cumulative]: Semantic Similarity: 0.73432,	 cache time: 2.658472651928927e-07,	 generate time: 7.3720794357029735
+[113]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.774131774902344
+[113]: [Cumulative]: Semantic Similarity: 0.73665,	 cache time: 2.656066626833196e-07,	 generate time: 7.36683428078367
+[114]: Semantic Similarity: 0.57613,	 cache time: 4.76837158203125e-07,	 generate time: 6.784074783325195
+[114]: [Cumulative]: Semantic Similarity: 0.73525,	 cache time: 2.6744344960088314e-07,	 generate time: 7.361766806892727
+[115]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 7.237209796905518
+[115]: [Cumulative]: Semantic Similarity: 0.73754,	 cache time: 2.671932352000269e-07,	 generate time: 7.360693039565251
+[116]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.821106910705566
+[116]: [Cumulative]: Semantic Similarity: 0.73978,	 cache time: 2.6694729796841614e-07,	 generate time: 7.3560811923100395
+[117]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.88637113571167
+[117]: [Cumulative]: Semantic Similarity: 0.74199,	 cache time: 2.667055291644597e-07,	 generate time: 7.352100598610054
+[118]: Semantic Similarity: 0.58793,	 cache time: 2.384185791015625e-07,	 generate time: 8.30233645439148
+[118]: [Cumulative]: Semantic Similarity: 0.74069,	 cache time: 2.6646782370174633e-07,	 generate time: 7.360085773868721
+[119]: Semantic Similarity: 0.67602,	 cache time: 2.384185791015625e-07,	 generate time: 6.791158199310303
+[119]: [Cumulative]: Semantic Similarity: 0.74015,	 cache time: 2.662340799967448e-07,	 generate time: 7.355344710747401
+[120]: Semantic Similarity: 0.80283,	 cache time: 2.384185791015625e-07,	 generate time: 7.63690447807312
+[120]: [Cumulative]: Semantic Similarity: 0.74067,	 cache time: 2.6600419982405735e-07,	 generate time: 7.357671650973233
+[121]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.713990211486816
+[121]: [Cumulative]: Semantic Similarity: 0.7428,	 cache time: 2.638238375304175e-07,	 generate time: 7.352395573600393
+[122]: Semantic Similarity: 0.68953,	 cache time: 4.76837158203125e-07,	 generate time: 7.684644937515259
+[122]: [Cumulative]: Semantic Similarity: 0.74236,	 cache time: 2.6555565314564277e-07,	 generate time: 7.355096787941165
+[123]: Semantic Similarity: 0.29777,	 cache time: 2.384185791015625e-07,	 generate time: 8.636942148208618
+[123]: [Cumulative]: Semantic Similarity: 0.73878,	 cache time: 2.6533680577431953e-07,	 generate time: 7.365434250523967
+[124]: Semantic Similarity: 0.88601,	 cache time: 2.384185791015625e-07,	 generate time: 6.764448404312134
+[124]: [Cumulative]: Semantic Similarity: 0.73995,	 cache time: 2.651214599609375e-07,	 generate time: 7.360626363754273
+[125]: Semantic Similarity: 0.91416,	 cache time: 2.384185791015625e-07,	 generate time: 6.683103561401367
+[125]: [Cumulative]: Semantic Similarity: 0.74134,	 cache time: 2.6490953233506946e-07,	 generate time: 7.355249198656233
+[126]: Semantic Similarity: 0.92134,	 cache time: 2.384185791015625e-07,	 generate time: 6.894916296005249
+[126]: [Cumulative]: Semantic Similarity: 0.74275,	 cache time: 2.6470094215212845e-07,	 generate time: 7.3516245301314225
+[127]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.782170295715332
+[127]: [Cumulative]: Semantic Similarity: 0.74476,	 cache time: 2.6635825634002686e-07,	 generate time: 7.347175668925047
+[128]: Semantic Similarity: 0.22441,	 cache time: 2.384185791015625e-07,	 generate time: 9.092223644256592
+[128]: [Cumulative]: Semantic Similarity: 0.74073,	 cache time: 2.6614166969476744e-07,	 generate time: 7.360703172609788
+[129]: Semantic Similarity: 0.40805,	 cache time: 2.384185791015625e-07,	 generate time: 9.791068077087402
+[129]: [Cumulative]: Semantic Similarity: 0.73817,	 cache time: 2.659284151517428e-07,	 generate time: 7.379398287259615
+[130]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.830380201339722
+[130]: [Cumulative]: Semantic Similarity: 0.74017,	 cache time: 2.6571841640326815e-07,	 generate time: 7.375207309504502
+[131]: Semantic Similarity: 0.75061,	 cache time: 2.384185791015625e-07,	 generate time: 8.49444842338562
+[131]: [Cumulative]: Semantic Similarity: 0.74025,	 cache time: 2.6551159945401276e-07,	 generate time: 7.3836864088520855
+[132]: Semantic Similarity: 0.94387,	 cache time: 2.384185791015625e-07,	 generate time: 7.167906284332275
+[132]: [Cumulative]: Semantic Similarity: 0.74178,	 cache time: 2.6530789253406953e-07,	 generate time: 7.382064001900809
+[133]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.668905258178711
+[133]: [Cumulative]: Semantic Similarity: 0.74371,	 cache time: 2.651072260159165e-07,	 generate time: 7.376741921723778
+[134]: Semantic Similarity: 0.86373,	 cache time: 2.384185791015625e-07,	 generate time: 6.696621656417847
+[134]: [Cumulative]: Semantic Similarity: 0.7446,	 cache time: 2.6490953233506946e-07,	 generate time: 7.371703993832623
+[135]: Semantic Similarity: 0.95868,	 cache time: 2.384185791015625e-07,	 generate time: 8.625673770904541
+[135]: [Cumulative]: Semantic Similarity: 0.74617,	 cache time: 2.6471474591423485e-07,	 generate time: 7.380924359840505
+[136]: Semantic Similarity: 0.91416,	 cache time: 2.384185791015625e-07,	 generate time: 6.72726845741272
+[136]: [Cumulative]: Semantic Similarity: 0.7474,	 cache time: 2.6452280309078467e-07,	 generate time: 7.376153148873879
+[137]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 7.9786200523376465
+[137]: [Cumulative]: Semantic Similarity: 0.74923,	 cache time: 2.643336420473845e-07,	 generate time: 7.380518851072892
+[138]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.829107046127319
+[138]: [Cumulative]: Semantic Similarity: 0.75103,	 cache time: 2.64147202745616e-07,	 generate time: 7.376551859670406
+[139]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.770824670791626
+[139]: [Cumulative]: Semantic Similarity: 0.75281,	 cache time: 2.639634268624442e-07,	 generate time: 7.3722252368927
+[140]: Semantic Similarity: 0.91518,	 cache time: 2.384185791015625e-07,	 generate time: 6.920727968215942
+[140]: [Cumulative]: Semantic Similarity: 0.75396,	 cache time: 2.637822577293883e-07,	 generate time: 7.369023128604213
+[141]: Semantic Similarity: 0.41443,	 cache time: 4.76837158203125e-07,	 generate time: 6.661176443099976
+[141]: [Cumulative]: Semantic Similarity: 0.75157,	 cache time: 2.652826443524428e-07,	 generate time: 7.364038292790802
+[142]: Semantic Similarity: 0.93356,	 cache time: 2.384185791015625e-07,	 generate time: 7.018045902252197
+[142]: [Cumulative]: Semantic Similarity: 0.75284,	 cache time: 2.650947837562828e-07,	 generate time: 7.361618765584239
+[143]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.815533638000488
+[143]: [Cumulative]: Semantic Similarity: 0.75456,	 cache time: 2.6490953233506946e-07,	 generate time: 7.357826507753796
+[144]: Semantic Similarity: 0.81364,	 cache time: 2.384185791015625e-07,	 generate time: 8.398786067962646
+[144]: [Cumulative]: Semantic Similarity: 0.75497,	 cache time: 2.6472683610587284e-07,	 generate time: 7.365005539203512
+[145]: Semantic Similarity: 0.43847,	 cache time: 7.152557373046875e-07,	 generate time: 9.449772596359253
+[145]: [Cumulative]: Semantic Similarity: 0.7528,	 cache time: 2.6781265049764556e-07,	 generate time: 7.379284765622387
+[146]: Semantic Similarity: 0.96914,	 cache time: 2.384185791015625e-07,	 generate time: 6.751100778579712
+[146]: [Cumulative]: Semantic Similarity: 0.75427,	 cache time: 2.676126908282844e-07,	 generate time: 7.3750114051663145
+[147]: Semantic Similarity: 0.66825,	 cache time: 2.384185791015625e-07,	 generate time: 10.60093641281128
+[147]: [Cumulative]: Semantic Similarity: 0.75369,	 cache time: 2.674154333166174e-07,	 generate time: 7.39680819575851
+[148]: Semantic Similarity: 0.87133,	 cache time: 2.384185791015625e-07,	 generate time: 7.271104335784912
+[148]: [Cumulative]: Semantic Similarity: 0.75448,	 cache time: 2.6722082355678483e-07,	 generate time: 7.395964545691573
+[149]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.79726505279541
+[149]: [Cumulative]: Semantic Similarity: 0.75612,	 cache time: 2.6702880859375e-07,	 generate time: 7.391973215738933
+[150]: Semantic Similarity: 0.81835,	 cache time: 2.384185791015625e-07,	 generate time: 6.680819749832153
+[150]: [Cumulative]: Semantic Similarity: 0.75653,	 cache time: 2.668393368752587e-07,	 generate time: 7.387263590136901
+[151]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 7.020135164260864
+[151]: [Cumulative]: Semantic Similarity: 0.75813,	 cache time: 2.666523582056949e-07,	 generate time: 7.384848271545611
+[152]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.8936614990234375
+[152]: [Cumulative]: Semantic Similarity: 0.75971,	 cache time: 2.6646782370174633e-07,	 generate time: 7.3816379004833745
+[153]: Semantic Similarity: 0.45406,	 cache time: 2.384185791015625e-07,	 generate time: 6.952661037445068
+[153]: [Cumulative]: Semantic Similarity: 0.75773,	 cache time: 2.6628568574979706e-07,	 generate time: 7.378852336437671
+[154]: Semantic Similarity: 0.89787,	 cache time: 4.76837158203125e-07,	 generate time: 6.793943643569946
+[154]: [Cumulative]: Semantic Similarity: 0.75863,	 cache time: 2.6764408234627016e-07,	 generate time: 7.375078731967557
+[155]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 7.036744117736816
+[155]: [Cumulative]: Semantic Similarity: 0.76018,	 cache time: 2.689850636017628e-07,	 generate time: 7.3729099203378725
+[156]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.936304092407227
+[156]: [Cumulative]: Semantic Similarity: 0.7617,	 cache time: 2.7030896229349123e-07,	 generate time: 7.37012899149755
+[157]: Semantic Similarity: 0.49469,	 cache time: 2.384185791015625e-07,	 generate time: 7.52971076965332
+[157]: [Cumulative]: Semantic Similarity: 0.76001,	 cache time: 2.701071244251879e-07,	 generate time: 7.3711390027517005
+[158]: Semantic Similarity: 0.62158,	 cache time: 2.384185791015625e-07,	 generate time: 6.960496187210083
+[158]: [Cumulative]: Semantic Similarity: 0.75914,	 cache time: 2.699078253979953e-07,	 generate time: 7.368556343534458
+[159]: Semantic Similarity: 0.10304,	 cache time: 2.384185791015625e-07,	 generate time: 8.498542308807373
+[159]: [Cumulative]: Semantic Similarity: 0.75504,	 cache time: 2.697110176086426e-07,	 generate time: 7.375618755817413
+[160]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.648687839508057
+[160]: [Cumulative]: Semantic Similarity: 0.75656,	 cache time: 2.695166546365489e-07,	 generate time: 7.371103656958349
+[161]: Semantic Similarity: 0.55942,	 cache time: 2.384185791015625e-07,	 generate time: 7.970888137817383
+[161]: [Cumulative]: Semantic Similarity: 0.75535,	 cache time: 2.693246912073206e-07,	 generate time: 7.374806030296985
+[162]: Semantic Similarity: 0.82119,	 cache time: 2.384185791015625e-07,	 generate time: 7.347460985183716
+[162]: [Cumulative]: Semantic Similarity: 0.75575,	 cache time: 2.69135083157592e-07,	 generate time: 7.37463826928402
+[163]: Semantic Similarity: 0.96228,	 cache time: 2.384185791015625e-07,	 generate time: 6.825895071029663
+[163]: [Cumulative]: Semantic Similarity: 0.75701,	 cache time: 2.689477874011528e-07,	 generate time: 7.371292274172713
+[164]: Semantic Similarity: 0.47311,	 cache time: 2.384185791015625e-07,	 generate time: 6.539953231811523
+[164]: [Cumulative]: Semantic Similarity: 0.75529,	 cache time: 2.687627618963068e-07,	 generate time: 7.36625385573416
+[165]: Semantic Similarity: 0.92699,	 cache time: 2.384185791015625e-07,	 generate time: 6.8230881690979
+[165]: [Cumulative]: Semantic Similarity: 0.75632,	 cache time: 2.6857996561441077e-07,	 generate time: 7.362981773284544
+[166]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.671127080917358
+[166]: [Cumulative]: Semantic Similarity: 0.75778,	 cache time: 2.683993585095434e-07,	 generate time: 7.3588389308152795
+[167]: Semantic Similarity: 0.98538,	 cache time: 4.76837158203125e-07,	 generate time: 7.265537261962891
+[167]: [Cumulative]: Semantic Similarity: 0.75914,	 cache time: 2.696400596981957e-07,	 generate time: 7.358283563738778
+[168]: Semantic Similarity: 1.0,	 cache time: 7.152557373046875e-07,	 generate time: 7.172500371932983
+[168]: [Cumulative]: Semantic Similarity: 0.76056,	 cache time: 2.7227683885563056e-07,	 generate time: 7.357184254911524
+[169]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.914987325668335
+[169]: [Cumulative]: Semantic Similarity: 0.76197,	 cache time: 2.7348013485179226e-07,	 generate time: 7.354583096504212
+[170]: Semantic Similarity: 0.90702,	 cache time: 2.384185791015625e-07,	 generate time: 8.41144061088562
+[170]: [Cumulative]: Semantic Similarity: 0.76282,	 cache time: 2.732750965140716e-07,	 generate time: 7.3607635498046875
+[171]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.790112018585205
+[171]: [Cumulative]: Semantic Similarity: 0.7642,	 cache time: 2.730724423430687e-07,	 generate time: 7.357445808344109
+[172]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.890402555465698
+[172]: [Cumulative]: Semantic Similarity: 0.76556,	 cache time: 2.728721309948519e-07,	 generate time: 7.354746136362153
+[173]: Semantic Similarity: 0.0734,	 cache time: 2.384185791015625e-07,	 generate time: 6.826951026916504
+[173]: [Cumulative]: Semantic Similarity: 0.76158,	 cache time: 2.7267412207592495e-07,	 generate time: 7.351712831135454
+[174]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.816363573074341
+[174]: [Cumulative]: Semantic Similarity: 0.76295,	 cache time: 2.738407679966518e-07,	 generate time: 7.348653692517962
+[175]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.679762840270996
+[175]: [Cumulative]: Semantic Similarity: 0.76429,	 cache time: 2.7363950555974786e-07,	 generate time: 7.3448531763120135
+[176]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.5686187744140625
+[176]: [Cumulative]: Semantic Similarity: 0.76563,	 cache time: 2.7344051727467337e-07,	 generate time: 7.340467671216545
+[177]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.940141677856445
+[177]: [Cumulative]: Semantic Similarity: 0.76694,	 cache time: 2.745831950326984e-07,	 generate time: 7.338218648781937
+[178]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.586244344711304
+[178]: [Cumulative]: Semantic Similarity: 0.76824,	 cache time: 2.7438115807218925e-07,	 generate time: 7.334017675016179
+[179]: Semantic Similarity: 0.73038,	 cache time: 2.384185791015625e-07,	 generate time: 8.18687629699707
+[179]: [Cumulative]: Semantic Similarity: 0.76803,	 cache time: 2.7418136596679685e-07,	 generate time: 7.338755778471628
+[180]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.649775266647339
+[180]: [Cumulative]: Semantic Similarity: 0.76932,	 cache time: 2.739837815089779e-07,	 generate time: 7.334949256306854
+[181]: Semantic Similarity: 0.39482,	 cache time: 2.384185791015625e-07,	 generate time: 6.658822536468506
+[181]: [Cumulative]: Semantic Similarity: 0.76726,	 cache time: 2.7378836830893714e-07,	 generate time: 7.33123427432972
+[182]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.813214063644409
+[182]: [Cumulative]: Semantic Similarity: 0.76853,	 cache time: 2.7489792453786713e-07,	 generate time: 7.328403562795921
+[183]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.846913576126099
+[183]: [Cumulative]: Semantic Similarity: 0.76979,	 cache time: 2.746996672257133e-07,	 generate time: 7.325786769390106
+[184]: Semantic Similarity: 0.90688,	 cache time: 2.384185791015625e-07,	 generate time: 7.0776686668396
+[184]: [Cumulative]: Semantic Similarity: 0.77053,	 cache time: 2.7450355323585304e-07,	 generate time: 7.324445590457401
+[185]: Semantic Similarity: 0.98541,	 cache time: 2.384185791015625e-07,	 generate time: 8.491851329803467
+[185]: [Cumulative]: Semantic Similarity: 0.77168,	 cache time: 2.7430954799857193e-07,	 generate time: 7.330721965400121
+[186]: Semantic Similarity: 0.62719,	 cache time: 2.384185791015625e-07,	 generate time: 7.852623224258423
+[186]: [Cumulative]: Semantic Similarity: 0.77091,	 cache time: 2.741176176836146e-07,	 generate time: 7.333512881222894
+[187]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.777719974517822
+[187]: [Cumulative]: Semantic Similarity: 0.77213,	 cache time: 2.7392772918051864e-07,	 generate time: 7.330556535974462
+[188]: Semantic Similarity: 0.90298,	 cache time: 2.384185791015625e-07,	 generate time: 7.366599082946777
+[188]: [Cumulative]: Semantic Similarity: 0.77282,	 cache time: 2.7373985007957176e-07,	 generate time: 7.3307472372811935
+[189]: Semantic Similarity: 0.99582,	 cache time: 0.0,	 generate time: 8.392805576324463
+[189]: [Cumulative]: Semantic Similarity: 0.774,	 cache time: 2.722991140265214e-07,	 generate time: 7.336337018013
+[190]: Semantic Similarity: 0.96555,	 cache time: 2.384185791015625e-07,	 generate time: 6.9407782554626465
+[190]: [Cumulative]: Semantic Similarity: 0.775,	 cache time: 2.7212172902691426e-07,	 generate time: 7.334266029727397
+[191]: Semantic Similarity: 0.37834,	 cache time: 4.76837158203125e-07,	 generate time: 6.759297609329224
+[191]: [Cumulative]: Semantic Similarity: 0.77293,	 cache time: 2.7318795522054035e-07,	 generate time: 7.331271402537823
+[192]: Semantic Similarity: 0.86974,	 cache time: 2.384185791015625e-07,	 generate time: 7.2866370677948
+[192]: [Cumulative]: Semantic Similarity: 0.77343,	 cache time: 2.7300780301267003e-07,	 generate time: 7.331040136554698
+[193]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.678839206695557
+[193]: [Cumulative]: Semantic Similarity: 0.7746,	 cache time: 2.7282950804405604e-07,	 generate time: 7.327678276091507
+[194]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.5777952671051025
+[194]: [Cumulative]: Semantic Similarity: 0.77576,	 cache time: 2.7265304174178684e-07,	 generate time: 7.323832722199269
+[195]: Semantic Similarity: 0.56199,	 cache time: 2.384185791015625e-07,	 generate time: 8.520739555358887
+[195]: [Cumulative]: Semantic Similarity: 0.77467,	 cache time: 2.724783761160714e-07,	 generate time: 7.329939389715389
+[196]: Semantic Similarity: 0.48347,	 cache time: 2.384185791015625e-07,	 generate time: 8.263711214065552
+[196]: [Cumulative]: Semantic Similarity: 0.77319,	 cache time: 2.723054837454394e-07,	 generate time: 7.334679348214629
+[197]: Semantic Similarity: 0.94261,	 cache time: 4.76837158203125e-07,	 generate time: 6.756401062011719
+[197]: [Cumulative]: Semantic Similarity: 0.77404,	 cache time: 2.733384720002762e-07,	 generate time: 7.331758750809564
+[198]: Semantic Similarity: 0.9373,	 cache time: 2.384185791015625e-07,	 generate time: 7.368962049484253
+[198]: [Cumulative]: Semantic Similarity: 0.77487,	 cache time: 2.7316299515153896e-07,	 generate time: 7.331945702059185
+[199]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.821844100952148
+[199]: [Cumulative]: Semantic Similarity: 0.77599,	 cache time: 2.7298927307128907e-07,	 generate time: 7.3293951940536495
+[200]: Semantic Similarity: 0.92916,	 cache time: 4.76837158203125e-07,	 generate time: 6.949498414993286
+[200]: [Cumulative]: Semantic Similarity: 0.77675,	 cache time: 2.740034416540345e-07,	 generate time: 7.327505160326981
+[201]: Semantic Similarity: 0.98577,	 cache time: 2.384185791015625e-07,	 generate time: 7.334113359451294
+[201]: [Cumulative]: Semantic Similarity: 0.77779,	 cache time: 2.7382727896813117e-07,	 generate time: 7.327537874184032
+[202]: Semantic Similarity: 0.12769,	 cache time: 2.384185791015625e-07,	 generate time: 6.766890287399292
+[202]: [Cumulative]: Semantic Similarity: 0.77459,	 cache time: 2.7365285187519244e-07,	 generate time: 7.324776063411694
+[203]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.78808331489563
+[203]: [Cumulative]: Semantic Similarity: 0.77569,	 cache time: 2.7348013485179226e-07,	 generate time: 7.322145216605243
+[204]: Semantic Similarity: 0.7963,	 cache time: 4.76837158203125e-07,	 generate time: 8.38557744026184
+[204]: [Cumulative]: Semantic Similarity: 0.77579,	 cache time: 2.7447212033155486e-07,	 generate time: 7.3273326908669825
+[205]: Semantic Similarity: 0.97839,	 cache time: 0.0,	 generate time: 6.9437172412872314
+[205]: [Cumulative]: Semantic Similarity: 0.77677,	 cache time: 2.7313973139790654e-07,	 generate time: 7.325470479946692
+[206]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.807198762893677
+[206]: [Cumulative]: Semantic Similarity: 0.77785,	 cache time: 2.729719963626585e-07,	 generate time: 7.322966751844986
+[207]: Semantic Similarity: 0.69205,	 cache time: 2.384185791015625e-07,	 generate time: 6.696974039077759
+[207]: [Cumulative]: Semantic Similarity: 0.77744,	 cache time: 2.7280587416428784e-07,	 generate time: 7.319957171495144
+[208]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.960102558135986
+[208]: [Cumulative]: Semantic Similarity: 0.77851,	 cache time: 2.7264134165202604e-07,	 generate time: 7.318235379086727
+[209]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.976995229721069
+[209]: [Cumulative]: Semantic Similarity: 0.77956,	 cache time: 2.724783761160714e-07,	 generate time: 7.31661042599451
+[210]: Semantic Similarity: 0.97138,	 cache time: 2.384185791015625e-07,	 generate time: 7.06626558303833
+[210]: [Cumulative]: Semantic Similarity: 0.78047,	 cache time: 2.723169552771401e-07,	 generate time: 7.31542395754448
+[211]: Semantic Similarity: 0.81297,	 cache time: 2.384185791015625e-07,	 generate time: 6.8290934562683105
+[211]: [Cumulative]: Semantic Similarity: 0.78062,	 cache time: 2.7215705727631193e-07,	 generate time: 7.313129945746008
+[212]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.623373985290527
+[212]: [Cumulative]: Semantic Similarity: 0.78165,	 cache time: 2.7199866066516286e-07,	 generate time: 7.30989165485185
+[213]: Semantic Similarity: 0.94027,	 cache time: 2.384185791015625e-07,	 generate time: 6.9428136348724365
+[213]: [Cumulative]: Semantic Similarity: 0.78239,	 cache time: 2.7184174439617404e-07,	 generate time: 7.30817633700148
+[214]: Semantic Similarity: 0.79535,	 cache time: 2.384185791015625e-07,	 generate time: 7.568533420562744
+[214]: [Cumulative]: Semantic Similarity: 0.78245,	 cache time: 2.7168628781340844e-07,	 generate time: 7.309387300180834
+[215]: Semantic Similarity: 0.84934,	 cache time: 2.384185791015625e-07,	 generate time: 6.866088628768921
+[215]: [Cumulative]: Semantic Similarity: 0.78276,	 cache time: 2.7153227064344617e-07,	 generate time: 7.30733499151689
+[216]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.903951406478882
+[216]: [Cumulative]: Semantic Similarity: 0.78376,	 cache time: 2.7137967298657116e-07,	 generate time: 7.305476080986761
+[217]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.793926000595093
+[217]: [Cumulative]: Semantic Similarity: 0.78476,	 cache time: 2.7122847530819956e-07,	 generate time: 7.303129520984965
+[218]: Semantic Similarity: 0.37865,	 cache time: 0.0,	 generate time: 7.10596776008606
+[218]: [Cumulative]: Semantic Similarity: 0.7829,	 cache time: 2.699899891195776e-07,	 generate time: 7.302229238971727
+[219]: Semantic Similarity: 0.83705,	 cache time: 2.384185791015625e-07,	 generate time: 6.830462694168091
+[219]: [Cumulative]: Semantic Similarity: 0.78315,	 cache time: 2.6984648271040483e-07,	 generate time: 7.300084845586256
+[220]: Semantic Similarity: 0.89787,	 cache time: 2.384185791015625e-07,	 generate time: 6.82145881652832
+[220]: [Cumulative]: Semantic Similarity: 0.78367,	 cache time: 2.6970427500176753e-07,	 generate time: 7.297919116947986
+[221]: Semantic Similarity: 0.83363,	 cache time: 2.384185791015625e-07,	 generate time: 7.6462037563323975
+[221]: [Cumulative]: Semantic Similarity: 0.78389,	 cache time: 2.695633484436585e-07,	 generate time: 7.299487966674942
+[222]: Semantic Similarity: 0.96714,	 cache time: 2.384185791015625e-07,	 generate time: 7.029985427856445
+[222]: [Cumulative]: Semantic Similarity: 0.78471,	 cache time: 2.694236858008688e-07,	 generate time: 7.298279435110734
+[223]: Semantic Similarity: 0.80763,	 cache time: 2.384185791015625e-07,	 generate time: 7.672008037567139
+[223]: [Cumulative]: Semantic Similarity: 0.78482,	 cache time: 2.6928527014596124e-07,	 generate time: 7.2999478663717
+[224]: Semantic Similarity: 0.98648,	 cache time: 2.384185791015625e-07,	 generate time: 7.028537273406982
+[224]: [Cumulative]: Semantic Similarity: 0.78571,	 cache time: 2.6914808485243054e-07,	 generate time: 7.298741597069634
+[225]: Semantic Similarity: 0.93473,	 cache time: 4.76837158203125e-07,	 generate time: 7.237454414367676
+[225]: [Cumulative]: Semantic Similarity: 0.78637,	 cache time: 2.7006706305309734e-07,	 generate time: 7.29847041484529
+[226]: Semantic Similarity: 0.41197,	 cache time: 4.76837158203125e-07,	 generate time: 7.478641986846924
+[226]: [Cumulative]: Semantic Similarity: 0.78472,	 cache time: 2.7097794452952917e-07,	 generate time: 7.299264122210936
+[227]: Semantic Similarity: 0.96644,	 cache time: 4.76837158203125e-07,	 generate time: 7.028573513031006
+[227]: [Cumulative]: Semantic Similarity: 0.78552,	 cache time: 2.7188083581757127e-07,	 generate time: 7.298076882696988
+[228]: Semantic Similarity: 0.95622,	 cache time: 2.384185791015625e-07,	 generate time: 6.96135139465332
+[228]: [Cumulative]: Semantic Similarity: 0.78626,	 cache time: 2.7173471242579833e-07,	 generate time: 7.296606465718631
+[229]: Semantic Similarity: 0.65453,	 cache time: 4.76837158203125e-07,	 generate time: 6.658790826797485
+[229]: [Cumulative]: Semantic Similarity: 0.78569,	 cache time: 2.7262646219004757e-07,	 generate time: 7.293833354245061
+[230]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.816999912261963
+[230]: [Cumulative]: Semantic Similarity: 0.78662,	 cache time: 2.724783761160714e-07,	 generate time: 7.291769140210502
+[231]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.804867267608643
+[231]: [Cumulative]: Semantic Similarity: 0.78754,	 cache time: 2.723315666461813e-07,	 generate time: 7.289670425242391
+[232]: Semantic Similarity: 0.96175,	 cache time: 2.384185791015625e-07,	 generate time: 7.000326633453369
+[232]: [Cumulative]: Semantic Similarity: 0.78829,	 cache time: 2.721860173434147e-07,	 generate time: 7.288428606393511
+[233]: Semantic Similarity: 0.17949,	 cache time: 2.384185791015625e-07,	 generate time: 7.728503465652466
+[233]: [Cumulative]: Semantic Similarity: 0.78569,	 cache time: 2.7204171205178284e-07,	 generate time: 7.290309268185216
+[234]: Semantic Similarity: 0.60529,	 cache time: 2.384185791015625e-07,	 generate time: 16.46779441833496
+[234]: [Cumulative]: Semantic Similarity: 0.78492,	 cache time: 2.718986348902926e-07,	 generate time: 7.329362396483726
+[235]: Semantic Similarity: 0.77617,	 cache time: 2.384185791015625e-07,	 generate time: 6.921499967575073
+[235]: [Cumulative]: Semantic Similarity: 0.78488,	 cache time: 2.7175677024712e-07,	 generate time: 7.327634165852757
+[236]: Semantic Similarity: 0.84035,	 cache time: 2.384185791015625e-07,	 generate time: 7.477124452590942
+[236]: [Cumulative]: Semantic Similarity: 0.78511,	 cache time: 2.71616102773932e-07,	 generate time: 7.328264926556294
+[237]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.6885881423950195
+[237]: [Cumulative]: Semantic Similarity: 0.78602,	 cache time: 2.7147661738035057e-07,	 generate time: 7.325577208975784
+[238]: Semantic Similarity: 0.96701,	 cache time: 2.384185791015625e-07,	 generate time: 6.901587963104248
+[238]: [Cumulative]: Semantic Similarity: 0.78678,	 cache time: 2.713382992285565e-07,	 generate time: 7.323803195394731
+[239]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.794720649719238
+[239]: [Cumulative]: Semantic Similarity: 0.78766,	 cache time: 2.7120113372802733e-07,	 generate time: 7.32159868478775
+[240]: Semantic Similarity: 0.42123,	 cache time: 4.76837158203125e-07,	 generate time: 7.962864398956299
+[240]: [Cumulative]: Semantic Similarity: 0.78614,	 cache time: 2.7205439524037213e-07,	 generate time: 7.324259538373512
+[241]: Semantic Similarity: 0.93386,	 cache time: 2.384185791015625e-07,	 generate time: 6.901529312133789
+[241]: [Cumulative]: Semantic Similarity: 0.78675,	 cache time: 2.7191540426459194e-07,	 generate time: 7.322512719256819
+[242]: Semantic Similarity: 0.86666,	 cache time: 4.76837158203125e-07,	 generate time: 7.476099014282227
+[242]: [Cumulative]: Semantic Similarity: 0.78708,	 cache time: 2.727587036635159e-07,	 generate time: 7.323144761623179
+[243]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.775312662124634
+[243]: [Cumulative]: Semantic Similarity: 0.78795,	 cache time: 2.726179654480981e-07,	 generate time: 7.320899548100644
+[244]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.798845052719116
+[244]: [Cumulative]: Semantic Similarity: 0.78882,	 cache time: 2.724783761160714e-07,	 generate time: 7.318768713425617
+[245]: Semantic Similarity: 0.94979,	 cache time: 4.76837158203125e-07,	 generate time: 6.913398504257202
+[245]: [Cumulative]: Semantic Similarity: 0.78947,	 cache time: 2.7330910287252284e-07,	 generate time: 7.317120867046883
+[246]: Semantic Similarity: 0.98214,	 cache time: 2.384185791015625e-07,	 generate time: 7.355802774429321
+[246]: [Cumulative]: Semantic Similarity: 0.79025,	 cache time: 2.7316784569126393e-07,	 generate time: 7.317277473959363
+[247]: Semantic Similarity: 0.99391,	 cache time: 2.384185791015625e-07,	 generate time: 7.002467155456543
+[247]: [Cumulative]: Semantic Similarity: 0.79108,	 cache time: 2.730277276808216e-07,	 generate time: 7.3160080775137875
+[248]: Semantic Similarity: 0.95266,	 cache time: 4.76837158203125e-07,	 generate time: 7.121518611907959
+[248]: [Cumulative]: Semantic Similarity: 0.79172,	 cache time: 2.7384623944998747e-07,	 generate time: 7.315226995322599
+[249]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.9340126514434814
+[249]: [Cumulative]: Semantic Similarity: 0.79256,	 cache time: 2.7370452880859373e-07,	 generate time: 7.313702137947082
+[250]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.793726921081543
+[250]: [Cumulative]: Semantic Similarity: 0.79338,	 cache time: 2.735639473356574e-07,	 generate time: 7.31163052353726
+[251]: Semantic Similarity: 0.66162,	 cache time: 2.384185791015625e-07,	 generate time: 6.600272178649902
+[251]: [Cumulative]: Semantic Similarity: 0.79286,	 cache time: 2.7342448158869666e-07,	 generate time: 7.30880767296231
+[252]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 7.249653100967407
+[252]: [Cumulative]: Semantic Similarity: 0.79368,	 cache time: 2.732861183377594e-07,	 generate time: 7.30857386042478
+[253]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.727585554122925
+[253]: [Cumulative]: Semantic Similarity: 0.79449,	 cache time: 2.731488445612389e-07,	 generate time: 7.306286504888159
+[254]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.814336538314819
+[254]: [Cumulative]: Semantic Similarity: 0.7953,	 cache time: 2.730126474417892e-07,	 generate time: 7.30435728933297
+[255]: Semantic Similarity: 0.98577,	 cache time: 2.384185791015625e-07,	 generate time: 7.392984390258789
+[255]: [Cumulative]: Semantic Similarity: 0.79604,	 cache time: 2.728775143623352e-07,	 generate time: 7.304703488945961
+[256]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.779824256896973
+[256]: [Cumulative]: Semantic Similarity: 0.79684,	 cache time: 2.7274343290217654e-07,	 generate time: 7.302661157303747
+[257]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.904296875
+[257]: [Cumulative]: Semantic Similarity: 0.79762,	 cache time: 2.7261039083318194e-07,	 generate time: 7.301117109697919
+[258]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.710411548614502
+[258]: [Cumulative]: Semantic Similarity: 0.79841,	 cache time: 2.7155784106162523e-07,	 generate time: 7.298836393245859
+[259]: Semantic Similarity: 0.70804,	 cache time: 2.384185791015625e-07,	 generate time: 10.404094696044922
+[259]: [Cumulative]: Semantic Similarity: 0.79806,	 cache time: 2.7143038236177883e-07,	 generate time: 7.310779694410471
+[260]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.929727077484131
+[260]: [Cumulative]: Semantic Similarity: 0.79883,	 cache time: 2.7130390035695044e-07,	 generate time: 7.30931972269811
+[261]: Semantic Similarity: 0.50141,	 cache time: 2.384185791015625e-07,	 generate time: 8.009310245513916
+[261]: [Cumulative]: Semantic Similarity: 0.7977,	 cache time: 2.7117838386360926e-07,	 generate time: 7.311991442250841
+[262]: Semantic Similarity: 0.61409,	 cache time: 2.384185791015625e-07,	 generate time: 9.102575778961182
+[262]: [Cumulative]: Semantic Similarity: 0.797,	 cache time: 2.710538218683163e-07,	 generate time: 7.318799747713618
+[263]: Semantic Similarity: 0.70912,	 cache time: 2.384185791015625e-07,	 generate time: 6.7922422885894775
+[263]: [Cumulative]: Semantic Similarity: 0.79666,	 cache time: 2.7093020352450286e-07,	 generate time: 7.316805211883603
+[264]: Semantic Similarity: 0.98464,	 cache time: 2.384185791015625e-07,	 generate time: 7.321560382843018
+[264]: [Cumulative]: Semantic Similarity: 0.79737,	 cache time: 2.7080751814932193e-07,	 generate time: 7.316823155924959
+[265]: Semantic Similarity: 0.88793,	 cache time: 2.384185791015625e-07,	 generate time: 6.818304061889648
+[265]: [Cumulative]: Semantic Similarity: 0.79771,	 cache time: 2.70685755220571e-07,	 generate time: 7.3149490239924955
+[266]: Semantic Similarity: 0.95344,	 cache time: 4.76837158203125e-07,	 generate time: 7.277591705322266
+[266]: [Cumulative]: Semantic Similarity: 0.7983,	 cache time: 2.714578578534644e-07,	 generate time: 7.314809108941296
+[267]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.887540817260742
+[267]: [Cumulative]: Semantic Similarity: 0.79905,	 cache time: 2.713345769625991e-07,	 generate time: 7.313214824270847
+[268]: Semantic Similarity: 0.09719,	 cache time: 2.384185791015625e-07,	 generate time: 9.622854232788086
+[268]: [Cumulative]: Semantic Similarity: 0.79644,	 cache time: 2.71212212658283e-07,	 generate time: 7.321800844376858
+[269]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.66879940032959
+[269]: [Cumulative]: Semantic Similarity: 0.7972,	 cache time: 2.719737865306713e-07,	 generate time: 7.319382320510017
+[270]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.794090747833252
+[270]: [Cumulative]: Semantic Similarity: 0.79794,	 cache time: 2.7184996657705837e-07,	 generate time: 7.317443975223386
+[271]: Semantic Similarity: 0.29897,	 cache time: 2.384185791015625e-07,	 generate time: 6.560966968536377
+[271]: [Cumulative]: Semantic Similarity: 0.79611,	 cache time: 2.717270570642808e-07,	 generate time: 7.314662809757626
+[272]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.915924072265625
+[272]: [Cumulative]: Semantic Similarity: 0.79686,	 cache time: 2.7160504798749426e-07,	 generate time: 7.313202228301611
+[273]: Semantic Similarity: 0.53202,	 cache time: 0.0,	 generate time: 8.696035146713257
+[273]: [Cumulative]: Semantic Similarity: 0.79589,	 cache time: 2.7061378868826985e-07,	 generate time: 7.318249063770266
+[274]: Semantic Similarity: 0.36884,	 cache time: 2.384185791015625e-07,	 generate time: 7.036195993423462
+[274]: [Cumulative]: Semantic Similarity: 0.79434,	 cache time: 2.7049671519886363e-07,	 generate time: 7.317223416241733
+[275]: Semantic Similarity: 0.80417,	 cache time: 2.384185791015625e-07,	 generate time: 6.900209188461304
+[275]: [Cumulative]: Semantic Similarity: 0.79437,	 cache time: 2.703804900680763e-07,	 generate time: 7.315712495126586
+[276]: Semantic Similarity: 0.69986,	 cache time: 2.384185791015625e-07,	 generate time: 7.4161412715911865
+[276]: [Cumulative]: Semantic Similarity: 0.79403,	 cache time: 2.7026510410790837e-07,	 generate time: 7.316075053886386
+[277]: Semantic Similarity: 0.36769,	 cache time: 4.76837158203125e-07,	 generate time: 7.04469633102417
+[277]: [Cumulative]: Semantic Similarity: 0.7925,	 cache time: 2.7100816905069695e-07,	 generate time: 7.315098871430047
+[278]: Semantic Similarity: 0.87632,	 cache time: 2.384185791015625e-07,	 generate time: 7.627518653869629
+[278]: [Cumulative]: Semantic Similarity: 0.7928,	 cache time: 2.70891360484571e-07,	 generate time: 7.316218655596497
+[279]: Semantic Similarity: 0.37572,	 cache time: 2.384185791015625e-07,	 generate time: 8.31057095527649
+[279]: [Cumulative]: Semantic Similarity: 0.79131,	 cache time: 2.7077538626534597e-07,	 generate time: 7.31976991380964
+[280]: Semantic Similarity: 1.0,	 cache time: 7.152557373046875e-07,	 generate time: 6.81646728515625
+[280]: [Cumulative]: Semantic Similarity: 0.79205,	 cache time: 2.723571668740269e-07,	 generate time: 7.3179788012521545
+[281]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.755674362182617
+[281]: [Cumulative]: Semantic Similarity: 0.79279,	 cache time: 2.722368172719969e-07,	 generate time: 7.315984813879568
+[282]: Semantic Similarity: 0.91416,	 cache time: 2.384185791015625e-07,	 generate time: 6.659675598144531
+[282]: [Cumulative]: Semantic Similarity: 0.79322,	 cache time: 2.721173181971897e-07,	 generate time: 7.313665700043048
+[283]: Semantic Similarity: 0.60205,	 cache time: 2.384185791015625e-07,	 generate time: 7.018441677093506
+[283]: [Cumulative]: Semantic Similarity: 0.79254,	 cache time: 2.7199866066516286e-07,	 generate time: 7.31262617883548
+[284]: Semantic Similarity: 0.20147,	 cache time: 2.384185791015625e-07,	 generate time: 6.655857086181641
+[284]: [Cumulative]: Semantic Similarity: 0.79047,	 cache time: 2.7188083581757127e-07,	 generate time: 7.310321725878799
+[285]: Semantic Similarity: 0.90369,	 cache time: 4.76837158203125e-07,	 generate time: 7.5885398387908936
+[285]: [Cumulative]: Semantic Similarity: 0.79087,	 cache time: 2.7259746631542285e-07,	 generate time: 7.311294516483387
+[286]: Semantic Similarity: 0.77058,	 cache time: 2.384185791015625e-07,	 generate time: 6.914759397506714
+[286]: [Cumulative]: Semantic Similarity: 0.7908,	 cache time: 2.724783761160714e-07,	 generate time: 7.309912861016569
+[287]: Semantic Similarity: 0.8791,	 cache time: 2.384185791015625e-07,	 generate time: 7.589422225952148
+[287]: [Cumulative]: Semantic Similarity: 0.7911,	 cache time: 2.723601129319933e-07,	 generate time: 7.310883379644817
+[288]: Semantic Similarity: 0.41095,	 cache time: 2.384185791015625e-07,	 generate time: 8.660301685333252
+[288]: [Cumulative]: Semantic Similarity: 0.78979,	 cache time: 2.7224266817825475e-07,	 generate time: 7.315552647138549
+[289]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.567258596420288
+[289]: [Cumulative]: Semantic Similarity: 0.79051,	 cache time: 2.721260333883351e-07,	 generate time: 7.312972322825728
+[290]: Semantic Similarity: 0.87483,	 cache time: 2.384185791015625e-07,	 generate time: 6.86947226524353
+[290]: [Cumulative]: Semantic Similarity: 0.7908,	 cache time: 2.720102002120919e-07,	 generate time: 7.311448267645033
+[291]: Semantic Similarity: 0.58895,	 cache time: 2.384185791015625e-07,	 generate time: 6.92536735534668
+[291]: [Cumulative]: Semantic Similarity: 0.79011,	 cache time: 2.718951604137682e-07,	 generate time: 7.310126072739902
+[292]: Semantic Similarity: 0.89202,	 cache time: 2.384185791015625e-07,	 generate time: 7.05485463142395
+[292]: [Cumulative]: Semantic Similarity: 0.79046,	 cache time: 2.7178090587004055e-07,	 generate time: 7.309254839151793
+[293]: Semantic Similarity: 0.50977,	 cache time: 2.384185791015625e-07,	 generate time: 8.197637796401978
+[293]: [Cumulative]: Semantic Similarity: 0.7895,	 cache time: 2.7166742856810694e-07,	 generate time: 7.312276549890739
+[294]: Semantic Similarity: 0.84887,	 cache time: 2.384185791015625e-07,	 generate time: 7.138180494308472
+[294]: [Cumulative]: Semantic Similarity: 0.7897,	 cache time: 2.7155472060381357e-07,	 generate time: 7.311686393770121
+[295]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 7.158380031585693
+[295]: [Cumulative]: Semantic Similarity: 0.79041,	 cache time: 2.714427741798195e-07,	 generate time: 7.311168466870849
+[296]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.7707295417785645
+[296]: [Cumulative]: Semantic Similarity: 0.79112,	 cache time: 2.721343377623895e-07,	 generate time: 7.309348807190403
+[297]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.837845087051392
+[297]: [Cumulative]: Semantic Similarity: 0.79182,	 cache time: 2.720211976326552e-07,	 generate time: 7.307766579941616
+[298]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.667644262313843
+[298]: [Cumulative]: Semantic Similarity: 0.79252,	 cache time: 2.7111142774090717e-07,	 generate time: 7.305625702625134
+[299]: Semantic Similarity: 0.97259,	 cache time: 2.384185791015625e-07,	 generate time: 6.762310266494751
+[299]: [Cumulative]: Semantic Similarity: 0.79312,	 cache time: 2.7100245157877605e-07,	 generate time: 7.303814651171367
+[300]: Semantic Similarity: 0.96404,	 cache time: 2.384185791015625e-07,	 generate time: 7.264981508255005
+[300]: [Cumulative]: Semantic Similarity: 0.79369,	 cache time: 2.708941995107454e-07,	 generate time: 7.303685637407525
+[301]: Semantic Similarity: 0.93199,	 cache time: 2.384185791015625e-07,	 generate time: 6.792200088500977
+[301]: [Cumulative]: Semantic Similarity: 0.79414,	 cache time: 2.707866643438276e-07,	 generate time: 7.301991976649556
+[302]: Semantic Similarity: 0.9625,	 cache time: 2.384185791015625e-07,	 generate time: 7.042037487030029
+[302]: [Cumulative]: Semantic Similarity: 0.7947,	 cache time: 2.7067983897999174e-07,	 generate time: 7.3011340410402505
+[303]: Semantic Similarity: 0.93941,	 cache time: 2.384185791015625e-07,	 generate time: 6.808074474334717
+[303]: [Cumulative]: Semantic Similarity: 0.79518,	 cache time: 2.705737164146022e-07,	 generate time: 7.299512134570825
+[304]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 7.168700218200684
+[304]: [Cumulative]: Semantic Similarity: 0.79585,	 cache time: 2.704682897348873e-07,	 generate time: 7.299083243041742
+[305]: Semantic Similarity: 0.99067,	 cache time: 2.384185791015625e-07,	 generate time: 7.364681720733643
+[305]: [Cumulative]: Semantic Similarity: 0.79648,	 cache time: 2.703635521184385e-07,	 generate time: 7.299297617151846
+[306]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.887452840805054
+[306]: [Cumulative]: Semantic Similarity: 0.79715,	 cache time: 2.702594968317386e-07,	 generate time: 7.297956103222378
+[307]: Semantic Similarity: 0.90823,	 cache time: 2.384185791015625e-07,	 generate time: 9.824751138687134
+[307]: [Cumulative]: Semantic Similarity: 0.79751,	 cache time: 2.7015611722871856e-07,	 generate time: 7.306159983207653
+[308]: Semantic Similarity: 0.81977,	 cache time: 2.384185791015625e-07,	 generate time: 7.411811351776123
+[308]: [Cumulative]: Semantic Similarity: 0.79758,	 cache time: 2.7005340674934266e-07,	 generate time: 7.306501897021791
+[309]: Semantic Similarity: 0.74157,	 cache time: 2.384185791015625e-07,	 generate time: 9.577242851257324
+[309]: [Cumulative]: Semantic Similarity: 0.7974,	 cache time: 2.699513589182208e-07,	 generate time: 7.313826867841905
+[310]: Semantic Similarity: 0.78648,	 cache time: 2.384185791015625e-07,	 generate time: 7.4934844970703125
+[310]: [Cumulative]: Semantic Similarity: 0.79736,	 cache time: 2.698499673432476e-07,	 generate time: 7.3144045451063056
+[311]: Semantic Similarity: 0.67355,	 cache time: 2.384185791015625e-07,	 generate time: 6.826581716537476
+[311]: [Cumulative]: Semantic Similarity: 0.79697,	 cache time: 2.697492257142678e-07,	 generate time: 7.312841010399354
+[312]: Semantic Similarity: 0.74031,	 cache time: 2.384185791015625e-07,	 generate time: 6.781808853149414
+[312]: [Cumulative]: Semantic Similarity: 0.79679,	 cache time: 2.696491278017672e-07,	 generate time: 7.311144422037533
+[313]: Semantic Similarity: 0.8928,	 cache time: 4.76837158203125e-07,	 generate time: 7.007753372192383
+[313]: [Cumulative]: Semantic Similarity: 0.79709,	 cache time: 2.7030896229349123e-07,	 generate time: 7.310178208502994
+[314]: Semantic Similarity: 0.89388,	 cache time: 2.384185791015625e-07,	 generate time: 9.341623067855835
+[314]: [Cumulative]: Semantic Similarity: 0.7974,	 cache time: 2.702077229817708e-07,	 generate time: 7.316627239802527
+[315]: Semantic Similarity: 0.89461,	 cache time: 2.384185791015625e-07,	 generate time: 7.704574108123779
+[315]: [Cumulative]: Semantic Similarity: 0.79771,	 cache time: 2.701071244251879e-07,	 generate time: 7.317854919765569
+[316]: Semantic Similarity: 0.17409,	 cache time: 2.384185791015625e-07,	 generate time: 7.726980209350586
+[316]: [Cumulative]: Semantic Similarity: 0.79574,	 cache time: 2.700071605598137e-07,	 generate time: 7.319145535821042
+[317]: Semantic Similarity: 0.73528,	 cache time: 2.384185791015625e-07,	 generate time: 6.854549407958984
+[317]: [Cumulative]: Semantic Similarity: 0.79555,	 cache time: 2.699078253979953e-07,	 generate time: 7.317684541708268
+[318]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.600218296051025
+[318]: [Cumulative]: Semantic Similarity: 0.79619,	 cache time: 2.698091130271601e-07,	 generate time: 7.3154354312203145
+[319]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.57534122467041
+[319]: [Cumulative]: Semantic Similarity: 0.79683,	 cache time: 2.697110176086426e-07,	 generate time: 7.313122636824846
+[320]: Semantic Similarity: 0.92395,	 cache time: 4.76837158203125e-07,	 generate time: 9.54804015159607
+[320]: [Cumulative]: Semantic Similarity: 0.79722,	 cache time: 2.703562703830802e-07,	 generate time: 7.3200849966839465
+[321]: Semantic Similarity: 0.55788,	 cache time: 2.384185791015625e-07,	 generate time: 7.228488206863403
+[321]: [Cumulative]: Semantic Similarity: 0.79648,	 cache time: 2.7025708500642956e-07,	 generate time: 7.3198005346037585
+[322]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.938706636428833
+[322]: [Cumulative]: Semantic Similarity: 0.79711,	 cache time: 2.701585137807179e-07,	 generate time: 7.318620677333867
+[323]: Semantic Similarity: 0.93242,	 cache time: 4.76837158203125e-07,	 generate time: 6.867388725280762
+[323]: [Cumulative]: Semantic Similarity: 0.79753,	 cache time: 2.707964108314043e-07,	 generate time: 7.317227986123827
+[324]: Semantic Similarity: 0.99255,	 cache time: 2.384185791015625e-07,	 generate time: 7.271738290786743
+[324]: [Cumulative]: Semantic Similarity: 0.79813,	 cache time: 2.7069678673377405e-07,	 generate time: 7.317088017830482
+[325]: Semantic Similarity: 0.62639,	 cache time: 2.384185791015625e-07,	 generate time: 9.093495845794678
+[325]: [Cumulative]: Semantic Similarity: 0.7976,	 cache time: 2.705977738269268e-07,	 generate time: 7.322537121597243
+[326]: Semantic Similarity: 0.60869,	 cache time: 2.384185791015625e-07,	 generate time: 9.031745195388794
+[326]: [Cumulative]: Semantic Similarity: 0.79702,	 cache time: 2.704993665036076e-07,	 generate time: 7.327764057602722
+[327]: Semantic Similarity: 0.95877,	 cache time: 2.384185791015625e-07,	 generate time: 7.261978626251221
+[327]: [Cumulative]: Semantic Similarity: 0.79752,	 cache time: 2.704015592249428e-07,	 generate time: 7.327563492263236
+[328]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.799025058746338
+[328]: [Cumulative]: Semantic Similarity: 0.79813,	 cache time: 2.6957966998717706e-07,	 generate time: 7.325956992465312
+[329]: Semantic Similarity: 0.96519,	 cache time: 2.384185791015625e-07,	 generate time: 8.82083249092102
+[329]: [Cumulative]: Semantic Similarity: 0.79864,	 cache time: 2.6948524243903884e-07,	 generate time: 7.330486918218208
+[330]: Semantic Similarity: 0.71983,	 cache time: 0.0,	 generate time: 6.763561487197876
+[330]: [Cumulative]: Semantic Similarity: 0.7984,	 cache time: 2.6867108762804476e-07,	 generate time: 7.328774152565579
+[331]: Semantic Similarity: 0.34576,	 cache time: 2.384185791015625e-07,	 generate time: 8.895251035690308
+[331]: [Cumulative]: Semantic Similarity: 0.79704,	 cache time: 2.6857996561441077e-07,	 generate time: 7.333492456430412
+[332]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.716325283050537
+[332]: [Cumulative]: Semantic Similarity: 0.79765,	 cache time: 2.6848939088013796e-07,	 generate time: 7.331639101555398
+[333]: Semantic Similarity: 0.97549,	 cache time: 2.384185791015625e-07,	 generate time: 7.161219120025635
+[333]: [Cumulative]: Semantic Similarity: 0.79818,	 cache time: 2.683993585095434e-07,	 generate time: 7.33112886208974
+[334]: Semantic Similarity: 0.8546,	 cache time: 2.384185791015625e-07,	 generate time: 6.766321182250977
+[334]: [Cumulative]: Semantic Similarity: 0.79835,	 cache time: 2.68309863645639e-07,	 generate time: 7.329442869015594
+[335]: Semantic Similarity: 0.39191,	 cache time: 2.384185791015625e-07,	 generate time: 6.661489248275757
+[335]: [Cumulative]: Semantic Similarity: 0.79714,	 cache time: 2.682209014892578e-07,	 generate time: 7.327454911811011
+[336]: Semantic Similarity: 0.92026,	 cache time: 2.384185791015625e-07,	 generate time: 6.796478986740112
+[336]: [Cumulative]: Semantic Similarity: 0.7975,	 cache time: 2.681324672981964e-07,	 generate time: 7.325879315594183
+[337]: Semantic Similarity: 0.70914,	 cache time: 4.76837158203125e-07,	 generate time: 10.17835783958435
+[337]: [Cumulative]: Semantic Similarity: 0.79724,	 cache time: 2.6874993679791515e-07,	 generate time: 7.334318601168119
+[338]: Semantic Similarity: 0.59392,	 cache time: 2.384185791015625e-07,	 generate time: 8.163859844207764
+[338]: [Cumulative]: Semantic Similarity: 0.79664,	 cache time: 2.6866046376636244e-07,	 generate time: 7.33676562548387
+[339]: Semantic Similarity: 0.48409,	 cache time: 2.384185791015625e-07,	 generate time: 8.62081503868103
+[339]: [Cumulative]: Semantic Similarity: 0.79572,	 cache time: 2.685715170467601e-07,	 generate time: 7.340542241405038
+[340]: Semantic Similarity: 0.36594,	 cache time: 2.384185791015625e-07,	 generate time: 11.010390281677246
+[340]: [Cumulative]: Semantic Similarity: 0.79446,	 cache time: 2.684830920087977e-07,	 generate time: 7.3513042591184465
+[341]: Semantic Similarity: 0.85349,	 cache time: 0.0,	 generate time: 7.0076963901519775
+[341]: [Cumulative]: Semantic Similarity: 0.79463,	 cache time: 2.6769805372807016e-07,	 generate time: 7.350299557747199
+[342]: Semantic Similarity: 0.56933,	 cache time: 2.384185791015625e-07,	 generate time: 11.107317686080933
+[342]: [Cumulative]: Semantic Similarity: 0.79398,	 cache time: 2.676126908282844e-07,	 generate time: 7.3612529633691635
+[343]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.781569957733154
+[343]: [Cumulative]: Semantic Similarity: 0.79458,	 cache time: 2.675278242244277e-07,	 generate time: 7.35956783835278
+[344]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.797698736190796
+[344]: [Cumulative]: Semantic Similarity: 0.79517,	 cache time: 2.6744344960088314e-07,	 generate time: 7.3579392322595565
+[345]: Semantic Similarity: 0.74618,	 cache time: 2.384185791015625e-07,	 generate time: 8.255215644836426
+[345]: [Cumulative]: Semantic Similarity: 0.79503,	 cache time: 2.673595626919256e-07,	 generate time: 7.36053251668897
+[346]: Semantic Similarity: 0.34335,	 cache time: 2.384185791015625e-07,	 generate time: 8.463974237442017
+[346]: [Cumulative]: Semantic Similarity: 0.79373,	 cache time: 2.672761592810023e-07,	 generate time: 7.363712464011025
+[347]: Semantic Similarity: 0.68336,	 cache time: 2.384185791015625e-07,	 generate time: 7.626417636871338
+[347]: [Cumulative]: Semantic Similarity: 0.79341,	 cache time: 2.671932352000269e-07,	 generate time: 7.364467363933037
+[348]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.777998924255371
+[348]: [Cumulative]: Semantic Similarity: 0.794,	 cache time: 2.6711078632868463e-07,	 generate time: 7.362786938604447
+[349]: Semantic Similarity: 0.95444,	 cache time: 2.384185791015625e-07,	 generate time: 6.905872106552124
+[349]: [Cumulative]: Semantic Similarity: 0.79446,	 cache time: 2.6702880859375e-07,	 generate time: 7.361481467655727
+[350]: Semantic Similarity: 0.30512,	 cache time: 2.384185791015625e-07,	 generate time: 7.836468935012817
+[350]: [Cumulative]: Semantic Similarity: 0.79307,	 cache time: 2.6694729796841614e-07,	 generate time: 7.362834708303468
+[351]: Semantic Similarity: 0.44351,	 cache time: 2.384185791015625e-07,	 generate time: 6.646276473999023
+[351]: [Cumulative]: Semantic Similarity: 0.79207,	 cache time: 2.668662504716353e-07,	 generate time: 7.360799031501466
+[352]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.79297947883606
+[352]: [Cumulative]: Semantic Similarity: 0.79266,	 cache time: 2.667856621674708e-07,	 generate time: 7.3591904775279104
+[353]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 7.183172941207886
+[353]: [Cumulative]: Semantic Similarity: 0.79325,	 cache time: 2.667055291644597e-07,	 generate time: 7.35869325284904
+[354]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.545098543167114
+[354]: [Cumulative]: Semantic Similarity: 0.79383,	 cache time: 2.666258476149868e-07,	 generate time: 7.356401436765429
+[355]: Semantic Similarity: 0.24612,	 cache time: 2.384185791015625e-07,	 generate time: 7.232934236526489
+[355]: [Cumulative]: Semantic Similarity: 0.79229,	 cache time: 2.665466137146682e-07,	 generate time: 7.35605461878723
+[356]: Semantic Similarity: 0.70725,	 cache time: 7.152557373046875e-07,	 generate time: 7.514551639556885
+[356]: [Cumulative]: Semantic Similarity: 0.79205,	 cache time: 2.678035020160408e-07,	 generate time: 7.356498588033083
+[357]: Semantic Similarity: 0.95805,	 cache time: 4.76837158203125e-07,	 generate time: 9.685863494873047
+[357]: [Cumulative]: Semantic Similarity: 0.79252,	 cache time: 2.683873949104181e-07,	 generate time: 7.363005193918111
+[358]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.890492677688599
+[358]: [Cumulative]: Semantic Similarity: 0.7931,	 cache time: 2.683039163148503e-07,	 generate time: 7.361689003065104
+[359]: Semantic Similarity: 0.79324,	 cache time: 4.76837158203125e-07,	 generate time: 7.428795337677002
+[359]: [Cumulative]: Semantic Similarity: 0.7931,	 cache time: 2.688831753200955e-07,	 generate time: 7.361875409550137
+[360]: Semantic Similarity: 0.98506,	 cache time: 2.384185791015625e-07,	 generate time: 6.989906072616577
+[360]: [Cumulative]: Semantic Similarity: 0.79363,	 cache time: 2.6879878585688623e-07,	 generate time: 7.360845023575251
+[361]: Semantic Similarity: 0.93941,	 cache time: 2.384185791015625e-07,	 generate time: 6.783884525299072
+[361]: [Cumulative]: Semantic Similarity: 0.79403,	 cache time: 2.6871486263380525e-07,	 generate time: 7.3592512100441025
+[362]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.84858512878418
+[362]: [Cumulative]: Semantic Similarity: 0.7946,	 cache time: 2.6863140179762826e-07,	 generate time: 7.357844416431816
+[363]: Semantic Similarity: 0.80235,	 cache time: 2.384185791015625e-07,	 generate time: 7.340921640396118
+[363]: [Cumulative]: Semantic Similarity: 0.79462,	 cache time: 2.6854839953747424e-07,	 generate time: 7.35779792528886
+[364]: Semantic Similarity: 0.62914,	 cache time: 2.384185791015625e-07,	 generate time: 7.261117219924927
+[364]: [Cumulative]: Semantic Similarity: 0.79417,	 cache time: 2.6846585208422515e-07,	 generate time: 7.357533046644028
+[365]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.873476505279541
+[365]: [Cumulative]: Semantic Similarity: 0.79473,	 cache time: 2.683837557099556e-07,	 generate time: 7.356210487787841
+[366]: Semantic Similarity: 0.97018,	 cache time: 0.0,	 generate time: 6.7893242835998535
+[366]: [Cumulative]: Semantic Similarity: 0.79521,	 cache time: 2.676524648224625e-07,	 generate time: 7.354665838730108
+[367]: Semantic Similarity: 0.52048,	 cache time: 2.384185791015625e-07,	 generate time: 7.632104396820068
+[367]: [Cumulative]: Semantic Similarity: 0.79446,	 cache time: 2.6757302491561225e-07,	 generate time: 7.355419747855352
+[368]: Semantic Similarity: 0.74725,	 cache time: 2.384185791015625e-07,	 generate time: 6.663000583648682
+[368]: [Cumulative]: Semantic Similarity: 0.79433,	 cache time: 2.6749401557736283e-07,	 generate time: 7.353543273155605
+[369]: Semantic Similarity: 0.75533,	 cache time: 4.76837158203125e-07,	 generate time: 7.382368326187134
+[369]: [Cumulative]: Semantic Similarity: 0.79423,	 cache time: 2.6805980785472974e-07,	 generate time: 7.353621178704339
+[370]: Semantic Similarity: 0.63942,	 cache time: 7.152557373046875e-07,	 generate time: 8.541314125061035
+[370]: [Cumulative]: Semantic Similarity: 0.79381,	 cache time: 2.6926518771847625e-07,	 generate time: 7.356822507400718
+[371]: Semantic Similarity: 0.62459,	 cache time: 4.76837158203125e-07,	 generate time: 7.559718132019043
+[371]: [Cumulative]: Semantic Similarity: 0.79335,	 cache time: 2.6982317688644576e-07,	 generate time: 7.357367925746466
+[372]: Semantic Similarity: 0.13123,	 cache time: 4.76837158203125e-07,	 generate time: 7.378693342208862
+[372]: [Cumulative]: Semantic Similarity: 0.79158,	 cache time: 2.703781741553913e-07,	 generate time: 7.357425098444757
+[373]: Semantic Similarity: 0.99524,	 cache time: 2.384185791015625e-07,	 generate time: 7.2667272090911865
+[373]: [Cumulative]: Semantic Similarity: 0.79212,	 cache time: 2.702927206926805e-07,	 generate time: 7.357182590719213
+[374]: Semantic Similarity: 0.98195,	 cache time: 2.384185791015625e-07,	 generate time: 6.975310564041138
+[374]: [Cumulative]: Semantic Similarity: 0.79263,	 cache time: 2.702077229817708e-07,	 generate time: 7.356164265314738
+[375]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.996597051620483
+[375]: [Cumulative]: Semantic Similarity: 0.79318,	 cache time: 2.7012317738634477e-07,	 generate time: 7.3552079695336365
+[376]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.530278921127319
+[376]: [Cumulative]: Semantic Similarity: 0.79373,	 cache time: 2.694066702845242e-07,	 generate time: 7.353019828821683
+[377]: Semantic Similarity: 0.68506,	 cache time: 2.384185791015625e-07,	 generate time: 7.9771833419799805
+[377]: [Cumulative]: Semantic Similarity: 0.79344,	 cache time: 2.693246912073206e-07,	 generate time: 7.354671055046969
+[378]: Semantic Similarity: 0.86373,	 cache time: 2.384185791015625e-07,	 generate time: 6.718976020812988
+[378]: [Cumulative]: Semantic Similarity: 0.79363,	 cache time: 2.6924314473738455e-07,	 generate time: 7.35299375944213
+[379]: Semantic Similarity: 0.81592,	 cache time: 7.152557373046875e-07,	 generate time: 8.08953309059143
+[379]: [Cumulative]: Semantic Similarity: 0.79369,	 cache time: 2.704168620862459e-07,	 generate time: 7.354932020839892
+[380]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.784997940063477
+[380]: [Cumulative]: Semantic Similarity: 0.79423,	 cache time: 2.7033287709153543e-07,	 generate time: 7.353436130864101
+[381]: Semantic Similarity: 0.49518,	 cache time: 4.76837158203125e-07,	 generate time: 9.794441938400269
+[381]: [Cumulative]: Semantic Similarity: 0.79345,	 cache time: 2.708734642148642e-07,	 generate time: 7.359826198423096
+[382]: Semantic Similarity: 0.19817,	 cache time: 2.384185791015625e-07,	 generate time: 8.19459056854248
+[382]: [Cumulative]: Semantic Similarity: 0.79189,	 cache time: 2.707887256114352e-07,	 generate time: 7.362005739859439
+[383]: Semantic Similarity: 0.81835,	 cache time: 2.384185791015625e-07,	 generate time: 6.676194906234741
+[383]: [Cumulative]: Semantic Similarity: 0.79196,	 cache time: 2.707044283548991e-07,	 generate time: 7.3602197741468744
+[384]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.7686381340026855
+[384]: [Cumulative]: Semantic Similarity: 0.7925,	 cache time: 2.7062056900618913e-07,	 generate time: 7.358683198458189
+[385]: Semantic Similarity: 0.63338,	 cache time: 2.384185791015625e-07,	 generate time: 8.647058010101318
+[385]: [Cumulative]: Semantic Similarity: 0.79209,	 cache time: 2.7053714416187663e-07,	 generate time: 7.362020957037575
+[386]: Semantic Similarity: 0.93898,	 cache time: 2.384185791015625e-07,	 generate time: 6.789796352386475
+[386]: [Cumulative]: Semantic Similarity: 0.79247,	 cache time: 2.7045415045371045e-07,	 generate time: 7.360542340488089
+[387]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.8095386028289795
+[387]: [Cumulative]: Semantic Similarity: 0.793,	 cache time: 2.7037158454816365e-07,	 generate time: 7.359122227762163
+[388]: Semantic Similarity: 0.86196,	 cache time: 4.76837158203125e-07,	 generate time: 7.584533452987671
+[388]: [Cumulative]: Semantic Similarity: 0.79318,	 cache time: 2.7090234437761084e-07,	 generate time: 7.359701691066085
+[389]: Semantic Similarity: 0.95134,	 cache time: 2.384185791015625e-07,	 generate time: 7.1857757568359375
+[389]: [Cumulative]: Semantic Similarity: 0.79359,	 cache time: 2.7081905267177483e-07,	 generate time: 7.359255727132162
+[390]: Semantic Similarity: 0.4762,	 cache time: 2.384185791015625e-07,	 generate time: 8.407102346420288
+[390]: [Cumulative]: Semantic Similarity: 0.79277,	 cache time: 2.7073618701046995e-07,	 generate time: 7.361935641759497
+[391]: Semantic Similarity: 0.88608,	 cache time: 2.384185791015625e-07,	 generate time: 7.710507869720459
+[391]: [Cumulative]: Semantic Similarity: 0.79301,	 cache time: 2.706537441331513e-07,	 generate time: 7.3628248566267445
+[392]: Semantic Similarity: 0.82113,	 cache time: 4.76837158203125e-07,	 generate time: 8.039777517318726
+[392]: [Cumulative]: Semantic Similarity: 0.79308,	 cache time: 2.7117838386360926e-07,	 generate time: 7.364547382480922
+[393]: Semantic Similarity: 0.78738,	 cache time: 2.384185791015625e-07,	 generate time: 6.940747261047363
+[393]: [Cumulative]: Semantic Similarity: 0.79307,	 cache time: 2.7109523715101525e-07,	 generate time: 7.363471747654949
+[394]: Semantic Similarity: 0.94227,	 cache time: 2.384185791015625e-07,	 generate time: 6.7714362144470215
+[394]: [Cumulative]: Semantic Similarity: 0.79345,	 cache time: 2.7101251143443435e-07,	 generate time: 7.361972923520245
+[395]: Semantic Similarity: 0.16708,	 cache time: 0.0,	 generate time: 7.532740831375122
+[395]: [Cumulative]: Semantic Similarity: 0.79187,	 cache time: 2.703281364055595e-07,	 generate time: 7.362404155610788
+[396]: Semantic Similarity: 0.97312,	 cache time: 2.384185791015625e-07,	 generate time: 6.773461103439331
+[396]: [Cumulative]: Semantic Similarity: 0.79232,	 cache time: 2.702477596869096e-07,	 generate time: 7.36092067185217
+[397]: Semantic Similarity: 0.99421,	 cache time: 2.384185791015625e-07,	 generate time: 8.781135559082031
+[397]: [Cumulative]: Semantic Similarity: 0.79283,	 cache time: 2.701677868713686e-07,	 generate time: 7.364489050965813
+[398]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.86037015914917
+[398]: [Cumulative]: Semantic Similarity: 0.79335,	 cache time: 2.700882149220708e-07,	 generate time: 7.363225595096598
+[399]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.723977327346802
+[399]: [Cumulative]: Semantic Similarity: 0.79386,	 cache time: 2.7000904083251955e-07,	 generate time: 7.361627474427223
+[400]: Semantic Similarity: 0.67932,	 cache time: 2.384185791015625e-07,	 generate time: 9.123262405395508
+[400]: [Cumulative]: Semantic Similarity: 0.79358,	 cache time: 2.6993026162620794e-07,	 generate time: 7.366020578993229
+[401]: Semantic Similarity: 0.82033,	 cache time: 2.384185791015625e-07,	 generate time: 7.6151957511901855
+[401]: [Cumulative]: Semantic Similarity: 0.79365,	 cache time: 2.698518743562461e-07,	 generate time: 7.3666404177300375
+[402]: Semantic Similarity: 0.38713,	 cache time: 4.76837158203125e-07,	 generate time: 9.13455057144165
+[402]: [Cumulative]: Semantic Similarity: 0.79264,	 cache time: 2.70365485482417e-07,	 generate time: 7.371027291560587
+[403]: Semantic Similarity: 0.95235,	 cache time: 2.384185791015625e-07,	 generate time: 6.921095371246338
+[403]: [Cumulative]: Semantic Similarity: 0.79303,	 cache time: 2.702864089814743e-07,	 generate time: 7.369913598688522
+[404]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.6840455532073975
+[404]: [Cumulative]: Semantic Similarity: 0.79354,	 cache time: 2.6961903513213735e-07,	 generate time: 7.368220097341656
+[405]: Semantic Similarity: 0.79948,	 cache time: 2.384185791015625e-07,	 generate time: 7.025160789489746
+[405]: [Cumulative]: Semantic Similarity: 0.79356,	 cache time: 2.695421867182689e-07,	 generate time: 7.367375123676996
+[406]: Semantic Similarity: 0.75455,	 cache time: 2.384185791015625e-07,	 generate time: 7.096875905990601
+[406]: [Cumulative]: Semantic Similarity: 0.79346,	 cache time: 2.694657159378839e-07,	 generate time: 7.366710506434522
+[407]: Semantic Similarity: 0.37042,	 cache time: 4.76837158203125e-07,	 generate time: 7.041595935821533
+[407]: [Cumulative]: Semantic Similarity: 0.79243,	 cache time: 2.699739792767693e-07,	 generate time: 7.365913656996746
+[408]: Semantic Similarity: 0.97586,	 cache time: 4.76837158203125e-07,	 generate time: 6.8978869915008545
+[408]: [Cumulative]: Semantic Similarity: 0.79287,	 cache time: 2.704797572203545e-07,	 generate time: 7.3647693375212055
+[409]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 7.147418737411499
+[409]: [Cumulative]: Semantic Similarity: 0.79338,	 cache time: 2.709830679544588e-07,	 generate time: 7.364239214106304
+[410]: Semantic Similarity: 0.72495,	 cache time: 4.76837158203125e-07,	 generate time: 8.62337064743042
+[410]: [Cumulative]: Semantic Similarity: 0.79321,	 cache time: 2.7148392948791057e-07,	 generate time: 7.367302794236046
+[411]: Semantic Similarity: 0.98685,	 cache time: 2.384185791015625e-07,	 generate time: 7.0270256996154785
+[411]: [Cumulative]: Semantic Similarity: 0.79368,	 cache time: 2.7140367378308936e-07,	 generate time: 7.366476878957841
+[412]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.658068656921387
+[412]: [Cumulative]: Semantic Similarity: 0.79418,	 cache time: 2.713238067257491e-07,	 generate time: 7.364761604812474
+[413]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.930433034896851
+[413]: [Cumulative]: Semantic Similarity: 0.79468,	 cache time: 2.712443254996037e-07,	 generate time: 7.363712501986591
+[414]: Semantic Similarity: 0.96122,	 cache time: 4.76837158203125e-07,	 generate time: 6.685766220092773
+[414]: [Cumulative]: Semantic Similarity: 0.79508,	 cache time: 2.717397299157568e-07,	 generate time: 7.362078896488052
+[415]: Semantic Similarity: 0.86828,	 cache time: 2.384185791015625e-07,	 generate time: 6.800981760025024
+[415]: [Cumulative]: Semantic Similarity: 0.79526,	 cache time: 2.7165963099553034e-07,	 generate time: 7.360730105294631
+[416]: Semantic Similarity: 0.38573,	 cache time: 2.384185791015625e-07,	 generate time: 9.175465822219849
+[416]: [Cumulative]: Semantic Similarity: 0.79427,	 cache time: 2.71579916242787e-07,	 generate time: 7.365081989507881
+[417]: Semantic Similarity: 0.51753,	 cache time: 2.384185791015625e-07,	 generate time: 9.36424732208252
+[417]: [Cumulative]: Semantic Similarity: 0.79361,	 cache time: 2.715005829003439e-07,	 generate time: 7.369864681691074
+[418]: Semantic Similarity: 0.52106,	 cache time: 2.384185791015625e-07,	 generate time: 8.220416069030762
+[418]: [Cumulative]: Semantic Similarity: 0.79296,	 cache time: 2.7142162823733964e-07,	 generate time: 7.37189463726945
+[419]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.896056175231934
+[419]: [Cumulative]: Semantic Similarity: 0.79345,	 cache time: 2.7191071283249627e-07,	 generate time: 7.3707616885503136
+[420]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 6.984320402145386
+[420]: [Cumulative]: Semantic Similarity: 0.79395,	 cache time: 2.7126484415593453e-07,	 generate time: 7.369843775756002
+[421]: Semantic Similarity: 0.10969,	 cache time: 2.384185791015625e-07,	 generate time: 7.735913515090942
+[421]: [Cumulative]: Semantic Similarity: 0.79232,	 cache time: 2.7118700940462085e-07,	 generate time: 7.370711239593289
+[422]: Semantic Similarity: 0.86054,	 cache time: 2.384185791015625e-07,	 generate time: 6.8179261684417725
+[422]: [Cumulative]: Semantic Similarity: 0.79249,	 cache time: 2.7110954266631574e-07,	 generate time: 7.369404419094113
+[423]: Semantic Similarity: 0.92445,	 cache time: 2.384185791015625e-07,	 generate time: 6.756044626235962
+[423]: [Cumulative]: Semantic Similarity: 0.7928,	 cache time: 2.710324413371536e-07,	 generate time: 7.36795781580907
+[424]: Semantic Similarity: 0.66567,	 cache time: 2.384185791015625e-07,	 generate time: 8.309856653213501
+[424]: [Cumulative]: Semantic Similarity: 0.7925,	 cache time: 2.7095570283777574e-07,	 generate time: 7.3701740483676685
+[425]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.83035135269165
+[425]: [Cumulative]: Semantic Similarity: 0.79298,	 cache time: 2.7087932461304283e-07,	 generate time: 7.368906858941199
+[426]: Semantic Similarity: 0.38913,	 cache time: 4.76837158203125e-07,	 generate time: 7.818319082260132
+[426]: [Cumulative]: Semantic Similarity: 0.79204,	 cache time: 2.71361661459858e-07,	 generate time: 7.369959346583633
+[427]: Semantic Similarity: 0.08388,	 cache time: 2.384185791015625e-07,	 generate time: 8.454784870147705
+[427]: [Cumulative]: Semantic Similarity: 0.79038,	 cache time: 2.7128469164126387e-07,	 generate time: 7.37249398565738
+[428]: Semantic Similarity: 0.75387,	 cache time: 0.0,	 generate time: 6.891276121139526
+[428]: [Cumulative]: Semantic Similarity: 0.7903,	 cache time: 2.7065232639268286e-07,	 generate time: 7.371372265693469
+[429]: Semantic Similarity: 0.79962,	 cache time: 2.384185791015625e-07,	 generate time: 6.914880752563477
+[429]: [Cumulative]: Semantic Similarity: 0.79032,	 cache time: 2.705773641896802e-07,	 generate time: 7.370310657523399
+[430]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.904314994812012
+[430]: [Cumulative]: Semantic Similarity: 0.79081,	 cache time: 2.71055925196672e-07,	 generate time: 7.369229461090194
+[431]: Semantic Similarity: 0.37711,	 cache time: 2.384185791015625e-07,	 generate time: 8.30301570892334
+[431]: [Cumulative]: Semantic Similarity: 0.78985,	 cache time: 2.709803757844148e-07,	 generate time: 7.371391003330548
+[432]: Semantic Similarity: 0.35964,	 cache time: 4.76837158203125e-07,	 generate time: 8.95207929611206
+[432]: [Cumulative]: Semantic Similarity: 0.78886,	 cache time: 2.7145579560524323e-07,	 generate time: 7.3750415536602985
+[433]: Semantic Similarity: 0.97353,	 cache time: 0.0,	 generate time: 6.797836780548096
+[433]: [Cumulative]: Semantic Similarity: 0.78928,	 cache time: 2.70830321421821e-07,	 generate time: 7.373711588745293
+[434]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.657504558563232
+[434]: [Cumulative]: Semantic Similarity: 0.78977,	 cache time: 2.707558116693606e-07,	 generate time: 7.3720651358023455
+[435]: Semantic Similarity: 0.76195,	 cache time: 2.384185791015625e-07,	 generate time: 7.393933057785034
+[435]: [Cumulative]: Semantic Similarity: 0.7897,	 cache time: 2.7068164370475557e-07,	 generate time: 7.372115291586709
+[436]: Semantic Similarity: 0.85017,	 cache time: 2.384185791015625e-07,	 generate time: 7.288485527038574
+[436]: [Cumulative]: Semantic Similarity: 0.78984,	 cache time: 2.7060781518163613e-07,	 generate time: 7.37192391912779
+[437]: Semantic Similarity: 0.95809,	 cache time: 2.384185791015625e-07,	 generate time: 7.135159730911255
+[437]: [Cumulative]: Semantic Similarity: 0.79022,	 cache time: 2.7053432377506065e-07,	 generate time: 7.371383361620445
+[438]: Semantic Similarity: 0.73334,	 cache time: 2.384185791015625e-07,	 generate time: 6.590729475021362
+[438]: [Cumulative]: Semantic Similarity: 0.79009,	 cache time: 2.7046116718127135e-07,	 generate time: 7.369605106753477
+[439]: Semantic Similarity: 0.95955,	 cache time: 2.384185791015625e-07,	 generate time: 6.902102708816528
+[439]: [Cumulative]: Semantic Similarity: 0.79048,	 cache time: 2.703883431174538e-07,	 generate time: 7.368542601303621
+[440]: Semantic Similarity: 0.94746,	 cache time: 2.384185791015625e-07,	 generate time: 6.658132314682007
+[440]: [Cumulative]: Semantic Similarity: 0.79084,	 cache time: 2.7031584932149943e-07,	 generate time: 7.366931693624207
+[441]: Semantic Similarity: 0.86697,	 cache time: 2.384185791015625e-07,	 generate time: 6.895387172698975
+[441]: [Cumulative]: Semantic Similarity: 0.79101,	 cache time: 2.7024368355177106e-07,	 generate time: 7.365864850816684
+[442]: Semantic Similarity: 0.74137,	 cache time: 4.76837158203125e-07,	 generate time: 8.756567239761353
+[442]: [Cumulative]: Semantic Similarity: 0.7909,	 cache time: 2.70710034510352e-07,	 generate time: 7.369004133861705
+[443]: Semantic Similarity: 0.97377,	 cache time: 2.384185791015625e-07,	 generate time: 7.260571002960205
+[443]: [Cumulative]: Semantic Similarity: 0.79131,	 cache time: 2.7063730600717904e-07,	 generate time: 7.368759915098414
+[444]: Semantic Similarity: 0.67563,	 cache time: 2.384185791015625e-07,	 generate time: 8.743519306182861
+[444]: [Cumulative]: Semantic Similarity: 0.79105,	 cache time: 2.705649043736833e-07,	 generate time: 7.3718492620446705
+[445]: Semantic Similarity: 0.63285,	 cache time: 4.76837158203125e-07,	 generate time: 9.72450566291809
+[445]: [Cumulative]: Semantic Similarity: 0.79069,	 cache time: 2.710273982163502e-07,	 generate time: 7.377124276396405
+[446]: Semantic Similarity: 0.51537,	 cache time: 4.76837158203125e-07,	 generate time: 7.25789737701416
+[446]: [Cumulative]: Semantic Similarity: 0.79008,	 cache time: 2.714878227353363e-07,	 generate time: 7.37685754955215
+[447]: Semantic Similarity: 0.90546,	 cache time: 2.384185791015625e-07,	 generate time: 7.017876148223877
+[447]: [Cumulative]: Semantic Similarity: 0.79034,	 cache time: 2.7141400745936804e-07,	 generate time: 7.3760562517813275
+[448]: Semantic Similarity: 0.98616,	 cache time: 2.384185791015625e-07,	 generate time: 7.158001661300659
+[448]: [Cumulative]: Semantic Similarity: 0.79077,	 cache time: 2.7134052098195643e-07,	 generate time: 7.375570606813665
+[449]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.566237926483154
+[449]: [Cumulative]: Semantic Similarity: 0.79124,	 cache time: 2.712673611111111e-07,	 generate time: 7.3737720897462635
+[450]: Semantic Similarity: 0.90703,	 cache time: 2.384185791015625e-07,	 generate time: 7.133907079696655
+[450]: [Cumulative]: Semantic Similarity: 0.79149,	 cache time: 2.7119452567428284e-07,	 generate time: 7.3732402382827384
+[451]: Semantic Similarity: 0.53842,	 cache time: 2.384185791015625e-07,	 generate time: 8.735952615737915
+[451]: [Cumulative]: Semantic Similarity: 0.79093,	 cache time: 2.7112201251814853e-07,	 generate time: 7.376255088675339
+[452]: Semantic Similarity: 0.75913,	 cache time: 2.384185791015625e-07,	 generate time: 8.23420763015747
+[452]: [Cumulative]: Semantic Similarity: 0.79086,	 cache time: 2.710498195083989e-07,	 generate time: 7.378149023645498
+[453]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.812837362289429
+[453]: [Cumulative]: Semantic Similarity: 0.79132,	 cache time: 2.71503095584819e-07,	 generate time: 7.376903843774669
+[454]: Semantic Similarity: 0.9273,	 cache time: 2.384185791015625e-07,	 generate time: 7.219413995742798
+[454]: [Cumulative]: Semantic Similarity: 0.79162,	 cache time: 2.7143038236177883e-07,	 generate time: 7.376557712240533
+[455]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.794940710067749
+[455]: [Cumulative]: Semantic Similarity: 0.79208,	 cache time: 2.7188083581757127e-07,	 generate time: 7.375282236358576
+[456]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 7.128313779830933
+[456]: [Cumulative]: Semantic Similarity: 0.79253,	 cache time: 2.723293179234478e-07,	 generate time: 7.374741823981053
+[457]: Semantic Similarity: 0.53402,	 cache time: 2.384185791015625e-07,	 generate time: 9.284160614013672
+[457]: [Cumulative]: Semantic Similarity: 0.79197,	 cache time: 2.722552770089895e-07,	 generate time: 7.378910860640513
+[458]: Semantic Similarity: 0.95182,	 cache time: 2.384185791015625e-07,	 generate time: 7.5042994022369385
+[458]: [Cumulative]: Semantic Similarity: 0.79232,	 cache time: 2.721815587128949e-07,	 generate time: 7.37918403829105
+[459]: Semantic Similarity: 0.82613,	 cache time: 2.384185791015625e-07,	 generate time: 6.540191411972046
+[459]: [Cumulative]: Semantic Similarity: 0.79239,	 cache time: 2.721081609311311e-07,	 generate time: 7.377360141277313
+[460]: Semantic Similarity: 1.0,	 cache time: 0.0,	 generate time: 7.069371700286865
+[460]: [Cumulative]: Semantic Similarity: 0.79284,	 cache time: 2.715179046167469e-07,	 generate time: 7.376692053552822
+[461]: Semantic Similarity: 0.95953,	 cache time: 2.384185791015625e-07,	 generate time: 7.2745020389556885
+[461]: [Cumulative]: Semantic Similarity: 0.7932,	 cache time: 2.714462610550257e-07,	 generate time: 7.376470863045036
+[462]: Semantic Similarity: 0.49504,	 cache time: 4.76837158203125e-07,	 generate time: 7.990247011184692
+[462]: [Cumulative]: Semantic Similarity: 0.79256,	 cache time: 2.718898699041577e-07,	 generate time: 7.377796513472983
+[463]: Semantic Similarity: 0.97226,	 cache time: 4.76837158203125e-07,	 generate time: 7.558661937713623
+[463]: [Cumulative]: Semantic Similarity: 0.79295,	 cache time: 2.723315666461813e-07,	 generate time: 7.3781863096459155
+[464]: Semantic Similarity: 0.86543,	 cache time: 2.384185791015625e-07,	 generate time: 6.786792516708374
+[464]: [Cumulative]: Semantic Similarity: 0.7931,	 cache time: 2.7225863549017135e-07,	 generate time: 7.376914495037448
+[465]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.694570779800415
+[465]: [Cumulative]: Semantic Similarity: 0.79355,	 cache time: 2.721860173434147e-07,	 generate time: 7.375450238137797
+[466]: Semantic Similarity: 0.42107,	 cache time: 2.384185791015625e-07,	 generate time: 7.486268043518066
+[466]: [Cumulative]: Semantic Similarity: 0.79275,	 cache time: 2.721137101951452e-07,	 generate time: 7.375687535365593
+[467]: Semantic Similarity: 0.55846,	 cache time: 2.384185791015625e-07,	 generate time: 6.692410469055176
+[467]: [Cumulative]: Semantic Similarity: 0.79225,	 cache time: 2.7204171205178284e-07,	 generate time: 7.37422754163416
+[468]: Semantic Similarity: 0.23446,	 cache time: 2.384185791015625e-07,	 generate time: 6.779356241226196
+[468]: [Cumulative]: Semantic Similarity: 0.79106,	 cache time: 2.719700209367504e-07,	 generate time: 7.372959159330518
+[469]: Semantic Similarity: 0.76888,	 cache time: 2.384185791015625e-07,	 generate time: 7.627091407775879
+[469]: [Cumulative]: Semantic Similarity: 0.79101,	 cache time: 2.718986348902926e-07,	 generate time: 7.3734998662421045
+[470]: Semantic Similarity: 0.31279,	 cache time: 2.384185791015625e-07,	 generate time: 7.384945631027222
+[470]: [Cumulative]: Semantic Similarity: 0.79,	 cache time: 2.7182755196929737e-07,	 generate time: 7.37352416722891
+[471]: Semantic Similarity: 0.792,	 cache time: 2.384185791015625e-07,	 generate time: 7.243577718734741
+[471]: [Cumulative]: Semantic Similarity: 0.79,	 cache time: 2.7175677024712e-07,	 generate time: 7.373248856956676
+[472]: Semantic Similarity: 0.98656,	 cache time: 2.384185791015625e-07,	 generate time: 6.756810665130615
+[472]: [Cumulative]: Semantic Similarity: 0.79042,	 cache time: 2.7168628781340844e-07,	 generate time: 7.3719456049655
+[473]: Semantic Similarity: 0.02852,	 cache time: 2.384185791015625e-07,	 generate time: 7.398885250091553
+[473]: [Cumulative]: Semantic Similarity: 0.78881,	 cache time: 2.71616102773932e-07,	 generate time: 7.372002439659859
+[474]: Semantic Similarity: 0.44082,	 cache time: 2.384185791015625e-07,	 generate time: 8.081974029541016
+[474]: [Cumulative]: Semantic Similarity: 0.78808,	 cache time: 2.715462132504112e-07,	 generate time: 7.373497116691188
+[475]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.666261672973633
+[475]: [Cumulative]: Semantic Similarity: 0.78852,	 cache time: 2.7147661738035057e-07,	 generate time: 7.372011327943882
+[476]: Semantic Similarity: 0.9654,	 cache time: 4.76837158203125e-07,	 generate time: 7.279648303985596
+[476]: [Cumulative]: Semantic Similarity: 0.78889,	 cache time: 2.719071426231656e-07,	 generate time: 7.371817694769965
+[477]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.905322551727295
+[477]: [Cumulative]: Semantic Similarity: 0.78933,	 cache time: 2.718370828668443e-07,	 generate time: 7.37084176350837
+[478]: Semantic Similarity: 0.32024,	 cache time: 2.384185791015625e-07,	 generate time: 9.128581523895264
+[478]: [Cumulative]: Semantic Similarity: 0.78835,	 cache time: 2.717673156356015e-07,	 generate time: 7.374511366348426
+[479]: Semantic Similarity: 1.0,	 cache time: 4.76837158203125e-07,	 generate time: 6.705321311950684
+[479]: [Cumulative]: Semantic Similarity: 0.78879,	 cache time: 2.7219454447428384e-07,	 generate time: 7.373117220401764
+[480]: Semantic Similarity: 0.71678,	 cache time: 4.76837158203125e-07,	 generate time: 6.846775770187378
+[480]: [Cumulative]: Semantic Similarity: 0.78865,	 cache time: 2.726199968936785e-07,	 generate time: 7.372022955432503
+[481]: Semantic Similarity: 0.48927,	 cache time: 2.384185791015625e-07,	 generate time: 7.258919954299927
+[481]: [Cumulative]: Semantic Similarity: 0.78802,	 cache time: 2.7254903959535463e-07,	 generate time: 7.371788301903183
+[482]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.775352716445923
+[482]: [Cumulative]: Semantic Similarity: 0.78846,	 cache time: 2.724783761160714e-07,	 generate time: 7.370553445618592
+[483]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 6.891127824783325
+[483]: [Cumulative]: Semantic Similarity: 0.7889,	 cache time: 2.7240800463463647e-07,	 generate time: 7.369562896815213
+[484]: Semantic Similarity: 1.0,	 cache time: 2.384185791015625e-07,	 generate time: 7.047260046005249
+[484]: [Cumulative]: Semantic Similarity: 0.78934,	 cache time: 2.7233792334487756e-07,	 generate time: 7.36889835485478
+
+Result for ./random_results/squad-train/k3/result_3.1-8B_k3_p100_q500_squad-train_bertscore_kvcache_nokv.txt_2
+Prepare time: 9.028640985488892
+Average Semantic Similarity: 0.7893353307446869
+cache time: 2.7233792334487756e-07,	 generate time: 7.36889835485478
